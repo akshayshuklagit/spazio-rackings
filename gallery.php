@@ -34,7 +34,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.2">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.2">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->

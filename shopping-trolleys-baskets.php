@@ -68,7 +68,7 @@
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
                                     <h2 class="m-tb0" style="color: #fff;">Shopping Trolleys & Baskets</h2>
-                                    <p style="color: rgba(255, 255, 255, 0.85);">Durable zinc-plated shopping trolleys, plastic hand baskets, and ergonomic checkout lane baskets.</p>
+                                    <p style="color: rgba(255, 255, 255, 0.85);">Durable zinc-plated shopping trolleys, ergonomic plastic hand baskets, double-tier rolling carts, and basket display stands built for smooth store mobility.</p>
                                 </div>
                             </div>
                             <!-- BREADCRUMB ROW -->                            
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="shopping-trolleys-baskets.php" style="color: #fff; font-weight: 500;">Shopping Trolleys & Baskets</a></li>\n
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li style="background-color: #d7b39a;"><a href="shopping-trolleys-baskets.php" style="color: #fff; font-weight: 500;">Shopping Trolleys & Baskets</a></li>
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -116,60 +116,89 @@
                         <div class="col-lg-8 col-md-12">
                             <div class="section-content">
                                 <div class="service-single-block m-b30">
-                                    <div class="sx-media">
-                                        <img src="images/gallery/pic2.jpg" alt="Shopping Trolleys & Baskets">
+                                    <div class="sx-media" style="text-align: center;">
+                                        <img src="images/services/shopping-trolleys-baskets.jpg" alt="Shopping Trolleys & Baskets" style="max-height: 500px; width: auto; object-fit: contain; border-radius: 4px;">
                                     </div>
                                     <h3 class="m-t30 sx-tilte">Shopping Trolleys & Baskets</h3>
-                                    <p>Enhance your customers' shopping convenience with Spazio's durable shopping trolleys and hand baskets. Built for daily retail abuse, our trolleys roll smoothly, stack compactly, and protect against rust.</p>
-                                    <p>We supply metal shopping carts with protective zinc plating and clear-coat finishes, stackable high-impact plastic hand baskets, and rolling double-basket carts. All wheels are industrial-grade polyurethane for silent movement.</p>
+                                    <p>Customer store mobility directly impacts shopping duration and average basket size. Spazio Racking System manufactures durable, smooth-rolling retail shopping trolleys and ergonomically designed hand shopping baskets engineered for daily retail store operations. Built to endure rigorous daily handling and compact stacking, our trolleys provide effortless maneuverability for shoppers of all ages.</p>
+                                    <p>Our shopping cart range spans 60-liter to 210-liter metal wire trolleys featuring multi-stage zinc plating with baked clear-coat lacquer for superior rust defense. Fitted with non-marking polyurethane silent swivel casters, protective plastic corner bumpers, and ergonomic handle wraps, our carts roll silently across all floor surfaces. We also supply stackable high-impact plastic hand baskets, double-tier basket rolling carts, and metal basket holding stands for supermarket entrance bays.</p>
  
                                     <h4 class="m-t30 sx-tilte">Key Capabilities & Features</h4>
                                     <div class="single-service-list">
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Anti-rust zinc-plated carts</a></li>\n                                                    <li><a href="javascript:;">Polyurethane silent-roll wheels</a></li>\n                                                    <li><a href="javascript:;">Compact nested stacking designs</a></li>\n                                                    <li><a href="javascript:;">Ergonomic handle grip designs</a></li>\n
+                                                    <li><a href="javascript:;">Multi-stage anti-rust zinc plating with clear lacquer protective coating</a></li>                                                    <li><a href="javascript:;">Industrial polyurethane (PU) non-marking 360-degree swivel casters</a></li>                                                    <li><a href="javascript:;">Nested compact stacking design saving valuable store entry space</a></li>                                                    <li><a href="javascript:;">Ergonomic handles with custom brand logo wrap print options</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">High-impact plastic hand baskets</a></li>\n                                                    <li><a href="javascript:;">Metal basket display stands</a></li>\n                                                    <li><a href="javascript:;">Double-basket rolling carts</a></li>\n                                                    <li><a href="javascript:;">Safe plastic corner bumpers</a></li>\n
+                                                    <li><a href="javascript:;">High-impact virgin polypropylene plastic hand shopping baskets</a></li>                                                    <li><a href="javascript:;">Double-tier basket rolling carts for quick convenience shopping</a></li>                                                    <li><a href="javascript:;">Protective corner plastic bumpers preventing fixture scratching</a></li>                                                    <li><a href="javascript:;">Safety child seats with safety lap straps on all larger trolleys</a></li>
                                                 </ul>
                                             </div>                                        
                                         </div>
                                     </div>
                                 </div>
 
+                                <h4 class="m-t30 sx-tilte">Frequently Asked Questions</h4>
                                 <div class="sx-accordion acc-bg-gray m-b30" id="accordion5">
                                     <div class="panel sx-panel">
                                         <div class="acod-head acc-actives">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse0Svc"  data-parent="#accordion5">
-                                                    What is the life expectancy of your shopping trolleys?
+                                                    What capacities of shopping trolleys do you manufacture?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse0Svc" class="acod-body collapse show">
                                             <div class="acod-content p-tb15">
-                                                <p>With our multi-stage zinc plating and baked clear-coat finish, our trolleys are designed to last over 7 to 10 years without rusting.</p>
+                                                <p>We manufacture shopping trolleys in 60L, 80L, 100L, 125L, 150L, 180L, and 210L volume capacities to suit express marts through hypermarkets.</p>
                                             </div>
                                         </div>
-                                    </div>\n                                    <div class="panel sx-panel">
+                                    </div>                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
-                                                    Can you customize the shopping trolley handles with our logo?
+                                                    How do Spazio shopping trolleys prevent rusting?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse1Svc" class="acod-body collapse ">
                                             <div class="acod-content p-tb15">
-                                                <p>Yes. We offer customized handle wraps with screen-printed brand logos and color themes for bulk orders.</p>
+                                                <p>Our metal trolleys undergo multi-stage electro-zinc plating followed by a high-temperature baked polyurethane clear coat for 7+ years of rust protection.</p>
                                             </div>
                                         </div>
-                                    </div>\n
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
+                                                    Can we print our supermarket logo on the trolley handle?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse2Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes! We provide custom screen-printed logo wraps on all trolley handles in your store's brand colors.</p>
+                                            </div>
+                                        </div>
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
+                                                    Are replacement wheels and casters available?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse3Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes. We supply full replacement caster wheels, bumper guards, and handles for long-term fleet maintenance.</p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>                                        
                             </div>
                         </div>

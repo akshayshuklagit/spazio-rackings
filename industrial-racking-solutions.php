@@ -68,7 +68,7 @@
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
                                     <h2 class="m-tb0" style="color: #fff;">Industrial Racking Solutions</h2>
-                                    <p style="color: rgba(255, 255, 255, 0.85);">Robust industrial shelving, storage racks, and heavy material pallet systems designed for manufacturing facilities and assembly plants.</p>
+                                    <p style="color: rgba(255, 255, 255, 0.85);">Heavy-duty industrial tool shelving, die storage racks, raw material racks, and rugged assembly line storage built for demanding manufacturing environments.</p>
                                 </div>
                             </div>
                             <!-- BREADCRUMB ROW -->                            
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="industrial-racking-solutions.php" style="color: #fff; font-weight: 500;">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li style="background-color: #d7b39a;"><a href="industrial-racking-solutions.php" style="color: #fff; font-weight: 500;">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -116,60 +116,89 @@
                         <div class="col-lg-8 col-md-12">
                             <div class="section-content">
                                 <div class="service-single-block m-b30">
-                                    <div class="sx-media">
-                                        <img src="images/services/service-projects/4.jpg" alt="Industrial Racking Solutions">
+                                    <div class="sx-media" style="text-align: center;">
+                                        <img src="images/services/industrial-racking-solutions.jpg" alt="Industrial Racking Solutions" style="max-height: 500px; width: auto; object-fit: contain; border-radius: 4px;">
                                     </div>
                                     <h3 class="m-t30 sx-tilte">Industrial Racking Solutions</h3>
-                                    <p>Spazio provides heavy-duty industrial storage racks and tool shelving systems built for manufacturing plants, automotive assembly lines, and industrial workshops. Our systems are engineered to organize raw materials, heavy components, and tools safely.</p>
-                                    <p>Our industrial racks feature thick sheet steel shelves, reinforced cross-beams, and heavy-duty floor anchoring footplates. All components are treated with chemical rust inhibitors and baked powder coat finishes for durability.</p>
+                                    <p>Industrial manufacturing facilities, automotive assembly plants, and engineering workshops demand storage systems capable of enduring continuous heavy material loads, mechanical impacts, and harsh industrial environments. Spazio Racking System manufactures heavy-duty industrial storage racks, mold and die storage units, and heavy component shelving built from thick-gauge structural sheet steel and heavy-wall structural channels.</p>
+                                    <p>Our industrial storage systems feature heavy box-welded shelf frames, heavy-duty floor mounting baseplates, and reinforced diagonal tie-bracing to eliminate structural deflection under extreme static or dynamic loads. All components undergo intensive shot-blasting, anti-corrosion chemical pre-treatment, and high-durability baked epoxy-polyester powder coating. This ensures outstanding resistance against industrial oils, moisture, chemical vapors, and mechanical abrasion over decades of service.</p>
  
                                     <h4 class="m-t30 sx-tilte">Key Capabilities & Features</h4>
                                     <div class="single-service-list">
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Heavy machinery parts storage</a></li>\n                                                    <li><a href="javascript:;">Thick sheet steel shelf designs</a></li>\n                                                    <li><a href="javascript:;">Anchored baseplates and footings</a></li>\n                                                    <li><a href="javascript:;">Reinforced horizontal load cross-beams</a></li>\n
+                                                    <li><a href="javascript:;">Extreme load capabilities up to 1000 kg to 2500 kg per shelf tier</a></li>                                                    <li><a href="javascript:;">Heavy-gauge steel shelf plates with welded underside rib stiffeners</a></li>                                                    <li><a href="javascript:;">Baseplate anchoring with heavy-duty mechanical expansion studs</a></li>                                                    <li><a href="javascript:;">Mold, die, and heavy machinery component storage configurations</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Chemical rust-resistant pre-treatment</a></li>\n                                                    <li><a href="javascript:;">Anti-rust baked electrostatic finish</a></li>\n                                                    <li><a href="javascript:;">Diagonal structural sway bracing</a></li>\n                                                    <li><a href="javascript:;">Load capacity up to 1000 kg/tier</a></li>\n
+                                                    <li><a href="javascript:;">Chemical anti-rust pre-treatment and baked epoxy-polyester finish</a></li>                                                    <li><a href="javascript:;">Sliding drawer mold racks with safety interlocking shelf locks</a></li>                                                    <li><a href="javascript:;">Custom material loading bays compatible with overhead crane hoists</a></li>                                                    <li><a href="javascript:;">Impact-resistant column guards and heavy-duty corner protectors</a></li>
                                                 </ul>
                                             </div>                                        
                                         </div>
                                     </div>
                                 </div>
 
+                                <h4 class="m-t30 sx-tilte">Frequently Asked Questions</h4>
                                 <div class="sx-accordion acc-bg-gray m-b30" id="accordion5">
                                     <div class="panel sx-panel">
                                         <div class="acod-head acc-actives">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse0Svc"  data-parent="#accordion5">
-                                                    Are your industrial racks suitable for wet or chemical environments?
+                                                    Are Spazio industrial racks designed for heavy machinery parts and dies?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse0Svc" class="acod-body collapse show">
                                             <div class="acod-content p-tb15">
-                                                <p>Yes. We offer hot-dip galvanized and epoxy-polyester powder-coated industrial racks specifically treated for moisture and chemical resistance.</p>
+                                                <p>Yes. We manufacture specialized heavy-duty industrial racks, including sliding die storage racks with safety lock mechanisms, capable of carrying over 2,000 kg per drawer.</p>
                                             </div>
                                         </div>
-                                    </div>\n                                    <div class="panel sx-panel">
+                                    </div>                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
-                                                    Do you offer professional anchoring for industrial racking?
+                                                    How are industrial storage racks anchored for safety?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse1Svc" class="acod-body collapse ">
                                             <div class="acod-content p-tb15">
-                                                <p>Yes. Our installation technicians secure upright frames to concrete foundations using heavy-duty mechanical expansion anchors.</p>
+                                                <p>Upright frames are anchored into reinforced concrete floors using heavy-duty mechanical expansion anchor bolts and floor leveling shims.</p>
                                             </div>
                                         </div>
-                                    </div>\n
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
+                                                    Can industrial racks resist chemical exposure or humidity?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse2Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes. We offer specialized epoxy-polyester powder coating and hot-dip galvanized finishes designed for high-humidity, chemical, or outdoor industrial settings.</p>
+                                            </div>
+                                        </div>
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
+                                                    Do you manufacture mobile tool shelving for workshop assembly lines?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse3Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes. We supply heavy-duty mobile industrial tool carts and workbench shelving equipped with industrial-grade steel casters.</p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>                                        
                             </div>
                         </div>

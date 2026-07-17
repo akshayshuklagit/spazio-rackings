@@ -37,7 +37,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.3">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -107,13 +107,12 @@
                                         <h3 class="m-t0 sx-tilte">Your Trusted Racking System Manufacturer in Delhi, India</h3>
                                         <p>Spazio Racking System is a leading Racking System Manufacturer in Delhi, India, delivering innovative Racking Solution in India for retail stores, supermarkets, warehouses, commercial spaces, and industrial facilities. Our experienced team designs and manufactures durable, space-efficient, and customized racking systems that improve storage capacity and operational efficiency. We are committed to quality, precision, and customer satisfaction in every project.</p>
                                         
-                                        <h4 class="m-t30 m-b15 sx-tilte">Why Choose Spazio?</h4>
-                                        <ul class="list-angle-right anchor-line" style="font-weight: 500;">
-                                            <li>✔ We manufacture customized racking systems for every business requirement.</li>
-                                            <li>✔ Our experts provide complete consultation, planning, and installation support.</li>
-                                            <li>✔ We deliver smart, durable, and space-optimized storage solutions.</li>
-                                            <li>✔ We use premium-quality materials to ensure long-lasting performance.</li>
-                                        </ul>                                                   
+                                        <ul class="list-angle-right anchor-line" style="margin-bottom: 25px;">
+                                            <li><a href="javascript:;">We manufacture customized racking systems for every business requirement.</a></li>
+                                            <li><a href="javascript:;">Our experts provide complete consultation, planning, and installation support.</a></li>
+                                            <li><a href="javascript:;">We deliver smart, durable, and space-optimized storage solutions.</a></li>
+                                            <li><a href="javascript:;">We use premium-quality materials to ensure long-lasting performance.</a></li>
+                                        </ul>
                                     </div>
                                 </div>
                                 

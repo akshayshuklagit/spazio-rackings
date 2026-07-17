@@ -68,7 +68,7 @@
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
                                     <h2 class="m-tb0" style="color: #fff;">Retail Fixtures & Accessories</h2>
-                                    <p style="color: rgba(255, 255, 255, 0.85);">High-grade retail fixtures, display hooks, pricing channels, shelf dividers, and promotional wire bins.</p>
+                                    <p style="color: rgba(255, 255, 255, 0.85);">High-grade retail fixtures, pegboard hooks, translucent price channels, acrylic shelf dividers, wire promotional dump bins, and checkout lane accessories.</p>
                                 </div>
                             </div>
                             <!-- BREADCRUMB ROW -->                            
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="retail-fixtures-accessories.php" style="color: #fff; font-weight: 500;">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li style="background-color: #d7b39a;"><a href="retail-fixtures-accessories.php" style="color: #fff; font-weight: 500;">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -116,60 +116,89 @@
                         <div class="col-lg-8 col-md-12">
                             <div class="section-content">
                                 <div class="service-single-block m-b30">
-                                    <div class="sx-media">
-                                        <img src="images/services/service-projects/5.jpg" alt="Retail Fixtures & Accessories">
+                                    <div class="sx-media" style="text-align: center;">
+                                        <img src="images/services/retail-fixtures-accessories.jpg" alt="Retail Fixtures & Accessories" style="max-height: 500px; width: auto; object-fit: contain; border-radius: 4px;">
                                     </div>
                                     <h3 class="m-t30 sx-tilte">Retail Fixtures & Accessories</h3>
-                                    <p>Equip your retail floor with Spazio's premium range of store fixtures and accessories. We supply everything needed to organize products, display pricing, and keep your retail operations running smoothly.</p>
-                                    <p>Our catalog features high-tensile steel pegboard hooks, slatwall brackets, translucent plastic pricing channels, metal wire mesh baskets, promotion tables, and safety barriers.</p>
+                                    <p>A complete retail merchandising setup requires high-quality fixtures and store accessories to organize products, display pricing clearly, and maintain order across store aisles. Spazio Racking System manufactures a complete line of heavy-duty retail fixtures and merchandising accessories built to seamlessly integrate with all standard retail shelving systems.</p>
+                                    <p>Our catalog includes single and double-prong pegboard metal hooks, slatwall display brackets, translucent PVC pricing channels, heavy wire promotional dump bins, adjustable mobile promo tables, wire mesh shelf stoppers, acrylic dividers, and checkout queue barrier gates. Fabricated from high-tensile steel wire and UV-stabilized impact plastics, Spazio retail fixtures enhance store organization, accelerate restock speed, and improve the overall customer purchasing journey.</p>
  
                                     <h4 class="m-t30 sx-tilte">Key Capabilities & Features</h4>
                                     <div class="single-service-list">
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Pegboard and slatwall hooks</a></li>\n                                                    <li><a href="javascript:;">Translucent pricing label channels</a></li>\n                                                    <li><a href="javascript:;">Mobile promotional dump bins</a></li>\n                                                    <li><a href="javascript:;">Wire mesh basket additions</a></li>\n
+                                                    <li><a href="javascript:;">High-tensile steel single and double-prong pegboard/slatwall hooks</a></li>                                                    <li><a href="javascript:;">UV-stabilized translucent PVC price label channels with snap-on clips</a></li>                                                    <li><a href="javascript:;">Heavy-duty wire promotional dump bins and mobile display baskets</a></li>                                                    <li><a href="javascript:;">Chrome-plated and powder-coated garment waterfall hanging bars</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Metal wire shelf dividers</a></li>\n                                                    <li><a href="javascript:;">Checkout lane barrier gates</a></li>\n                                                    <li><a href="javascript:;">Adjustable wire promotional tables</a></li>\n                                                    <li><a href="javascript:;">Heavy-duty zinc plating</a></li>\n
+                                                    <li><a href="javascript:;">Acrylic and wire mesh shelf dividers for neat product separation</a></li>                                                    <li><a href="javascript:;">Front wire stoppers preventing product sliding on tilted shelves</a></li>                                                    <li><a href="javascript:;">Checkout lane queue barriers, turnstiles, and impulse purchase bays</a></li>                                                    <li><a href="javascript:;">Heavy-duty zinc and powder-coat finishes for long-lasting anti-rust protection</a></li>
                                                 </ul>
                                             </div>                                        
                                         </div>
                                     </div>
                                 </div>
 
+                                <h4 class="m-t30 sx-tilte">Frequently Asked Questions</h4>
                                 <div class="sx-accordion acc-bg-gray m-b30" id="accordion5">
                                     <div class="panel sx-panel">
                                         <div class="acod-head acc-actives">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse0Svc"  data-parent="#accordion5">
-                                                    Are your display hooks compatible with other rack brands?
+                                                    Are Spazio display hooks compatible with third-party pegboards?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse0Svc" class="acod-body collapse show">
                                             <div class="acod-content p-tb15">
-                                                <p>Yes. Our standard pegboard and slatwall hooks are designed to fit standard spacing configurations across India.</p>
+                                                <p>Yes. Our standard pegboard hooks feature universal 1-inch and 2-inch hole spacing compatible with standard retail back panels across India.</p>
                                             </div>
                                         </div>
-                                    </div>\n                                    <div class="panel sx-panel">
+                                    </div>                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
-                                                    What materials do you use for your pricing channels?
+                                                    What materials are used for your pricing label channels?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse1Svc" class="acod-body collapse ">
                                             <div class="acod-content p-tb15">
-                                                <p>We use high-grade, UV-stabilized PVC plastics that resist yellowing, cracking, and clouding under indoor lighting.</p>
+                                                <p>We use high-clarity, UV-stabilized PVC plastic that resists yellowing, clouding, and cracking under intense retail lighting.</p>
                                             </div>
                                         </div>
-                                    </div>\n
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
+                                                    Do you supply wire dump bins for discount or promotional sales?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse2Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes. We manufacture collapsible and height-adjustable wire dump bins fitted with casters for high-visibility promotional displays.</p>
+                                            </div>
+                                        </div>
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
+                                                    Can retail fixtures be customized in specific finishes?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse3Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes. We offer chrome plating, zinc galvanized plating, and custom powder coat colors on all wire baskets, hooks, and fixtures.</p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>                                        
                             </div>
                         </div>

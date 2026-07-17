@@ -68,7 +68,7 @@
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
                                     <h2 class="m-tb0" style="color: #fff;">Warehouse Storage Solutions</h2>
-                                    <p style="color: rgba(255, 255, 255, 0.85);">Heavy-duty industrial warehouse racking, selective pallet racks, and robust multi-tier mezzanine floors to optimize storage density.</p>
+                                    <p style="color: rgba(255, 255, 255, 0.85);">Heavy-duty industrial warehouse pallet racks, selective pallet racking, cantilever storage, and multi-tier mezzanine floor platforms for maximum vertical volumetric density.</p>
                                 </div>
                             </div>
                             <!-- BREADCRUMB ROW -->                            
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="warehouse-storage-solutions.php" style="color: #fff; font-weight: 500;">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li style="background-color: #d7b39a;"><a href="warehouse-storage-solutions.php" style="color: #fff; font-weight: 500;">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -116,60 +116,89 @@
                         <div class="col-lg-8 col-md-12">
                             <div class="section-content">
                                 <div class="service-single-block m-b30">
-                                    <div class="sx-media">
-                                        <img src="images/services/service-projects/7.jpg" alt="Warehouse Storage Solutions">
+                                    <div class="sx-media" style="text-align: center;">
+                                        <img src="images/services/warehouse-storage-solution.jpg" alt="Warehouse Storage Solutions" style="max-height: 500px; width: auto; object-fit: contain; border-radius: 4px;">
                                     </div>
                                     <h3 class="m-t30 sx-tilte">Warehouse Storage Solutions</h3>
-                                    <p>Maximize your logistical storage efficiency with Spazio's heavy-duty warehouse racking solutions. Engineered to withstand demanding industrial warehouse environments, our selective pallet racks support quick accessibility and seamless forklift operations.</p>
-                                    <p>We specialize in drive-in racking for high-density LIFO inventory, cantilever racks for long materials, and multi-tier structural mezzanine floor platforms. Our upright frames are fabricated from cold-rolled steel channels supporting up to 4000 kg per tier.</p>
+                                    <p>Optimizing volumetric warehouse storage is critical for modern logistics hubs, manufacturing plants, and e-commerce fulfillment centers. Spazio Racking System designs, manufactures, and installs heavy-duty warehouse storage systems engineered for high load capacity, structural safety, and rapid stock accessibility. Built in full compliance with international SEMA and Indian IS structural standards, our selective pallet racks, drive-in systems, and heavy-duty shelving maximize cubic storage capacity while reducing material handling cycle times.</p>
+                                    <p>From high-density selective pallet racking designed for direct 100% pallet access to drive-in and drive-through racking for bulk LIFO/FIFO inventory management, Spazio provides end-to-end warehouse engineering. Our upright columns are roll-formed from high-grade structural coil steel with rigid box-section beam profiles supporting loads up to 4000 kg per beam level. Additionally, we engineer multi-tier structural mezzanine floors and long-span heavy shelving to turn unused overhead warehouse space into active storage floors.</p>
  
                                     <h4 class="m-t30 sx-tilte">Key Capabilities & Features</h4>
                                     <div class="single-service-list">
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Load capacities up to 4000 kg/tier</a></li>\n                                                    <li><a href="javascript:;">Cold-rolled structural steel columns</a></li>\n                                                    <li><a href="javascript:;">Seismic-reinforced upright frames</a></li>\n                                                    <li><a href="javascript:;">Diagonal structural sway bracing</a></li>\n
+                                                    <li><a href="javascript:;">Heavy-duty beam capacities ranging from 1000 kg to 4000 kg per level</a></li>                                                    <li><a href="javascript:;">Cold-rolled structural steel upright frames with seismic sway bracing</a></li>                                                    <li><a href="javascript:;">100% selective pallet accessibility for fast forklift maneuvering</a></li>                                                    <li><a href="javascript:;">Column guard protectors and heavy-duty floor anchoring expansion bolts</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Column guard forklift protectors</a></li>\n                                                    <li><a href="javascript:;">Double-welded horizontal load beams</a></li>\n                                                    <li><a href="javascript:;">Safety lock pins on all connectors</a></li>\n                                                    <li><a href="javascript:;">Multi-tier mezzanine floor platforms</a></li>\n
+                                                    <li><a href="javascript:;">Multi-tier structural steel mezzanine platforms to double usable floor space</a></li>                                                    <li><a href="javascript:;">Drive-in and Drive-through high-density pallet storage configurations</a></li>                                                    <li><a href="javascript:;">Cantilever racking for timber, steel pipes, and long material storage</a></li>                                                    <li><a href="javascript:;">Safety locking pins on all beam-to-column connector brackets</a></li>
                                                 </ul>
                                             </div>                                        
                                         </div>
                                     </div>
                                 </div>
 
+                                <h4 class="m-t30 sx-tilte">Frequently Asked Questions</h4>
                                 <div class="sx-accordion acc-bg-gray m-b30" id="accordion5">
                                     <div class="panel sx-panel">
                                         <div class="acod-head acc-actives">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse0Svc"  data-parent="#accordion5">
-                                                    What safety codes do your warehouse racks comply with?
+                                                    What is the maximum height and load capacity of Spazio warehouse racks?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse0Svc" class="acod-body collapse show">
                                             <div class="acod-content p-tb15">
-                                                <p>Our warehouse racking solutions are engineered in compliance with Indian IS standards and international SEMA guidelines for structural loading.</p>
+                                                <p>Our selective pallet racks can reach upright heights up to 12 meters with individual beam load capacities ranging up to 4,000 kg per tier.</p>
                                             </div>
                                         </div>
-                                    </div>\n                                    <div class="panel sx-panel">
+                                    </div>                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
-                                                    Do you provide load rating plaques for warehouse safety?
+                                                    How do you ensure structural safety in warehouse installations?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse1Svc" class="acod-body collapse ">
                                             <div class="acod-content p-tb15">
-                                                <p>Yes. Every warehouse installation includes detailed safety plaque labels specifying the load limits and configuration constraints.</p>
+                                                <p>We utilize cold-rolled high-tensile steel, diagonal sway bracing, baseplate floor anchoring, spring-loaded safety beam pins, and heavy-duty column impact guards.</p>
                                             </div>
                                         </div>
-                                    </div>\n
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
+                                                    Can your warehouse racks be integrated with forklift handling equipment?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse2Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes. Aisle widths and beam elevations are custom-engineered based on your specific forklift turning radius (Reach trucks, VNA, or standard Counterbalance trucks).</p>
+                                            </div>
+                                        </div>
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
+                                                    Do you provide load capacity certification plaques?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse3Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes. Every warehouse system installation includes official load rating plaques clearly stating maximum load capacities per bay and beam.</p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>                                        
                             </div>
                         </div>

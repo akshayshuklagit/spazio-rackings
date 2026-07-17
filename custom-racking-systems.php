@@ -68,7 +68,7 @@
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
                                     <h2 class="m-tb0" style="color: #fff;">Custom Racking Systems</h2>
-                                    <p style="color: rgba(255, 255, 255, 0.85);">Fully customized display racks and storage shelving tailored to your specific product dimensions and store layout.</p>
+                                    <p style="color: rgba(255, 255, 255, 0.85);">Bespoke storage racks and custom display shelving designed, CAD-engineered, and CNC-fabricated to match your unique product dimensions and floor layouts.</p>
                                 </div>
                             </div>
                             <!-- BREADCRUMB ROW -->                            
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="custom-racking-systems.php" style="color: #fff; font-weight: 500;">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li style="background-color: #d7b39a;"><a href="custom-racking-systems.php" style="color: #fff; font-weight: 500;">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -116,60 +116,89 @@
                         <div class="col-lg-8 col-md-12">
                             <div class="section-content">
                                 <div class="service-single-block m-b30">
-                                    <div class="sx-media">
-                                        <img src="images/services/service-projects/3.jpg" alt="Custom Racking Systems">
+                                    <div class="sx-media" style="text-align: center;">
+                                        <img src="images/services/custom-racking-systems.jpg" alt="Custom Racking Systems" style="max-height: 500px; width: auto; object-fit: contain; border-radius: 4px;">
                                     </div>
                                     <h3 class="m-t30 sx-tilte">Custom Racking Systems</h3>
-                                    <p>Get storage and display racks built precisely to your specifications. Spazio's custom racking services begin with spatial layout mapping, CAD drafting, and manufacturing custom-sized columns, brackets, and panels.</p>
-                                    <p>Whether you require extra-deep warehouse shelves, custom-shaped corner display gondolas, or unique color-coded retail racks, our CNC manufacturing processes ensure millimeter-accurate fabrication.</p>
+                                    <p>Standard off-the-shelf racking solutions cannot always solve unique storage challenges or fit irregular store layouts. Spazio Racking System provides comprehensive custom racking manufacturing services, delivering tailored storage and display systems engineered to your exact dimensional, aesthetic, and structural loading specifications.</p>
+                                    <p>Our custom engineering workflow begins with on-site spatial measurements and 3D CAD drafting, followed by CNC laser cutting, automated precision bending, and custom powder-coating. Whether you require extra-deep warehouse cantilever racks, curved retail display gondolas, specialized tire or carpet roll storage, or brand-specific color combinations, Spazio turns complex layout concepts into durable, high-performance racking reality.</p>
  
                                     <h4 class="m-t30 sx-tilte">Key Capabilities & Features</h4>
                                     <div class="single-service-list">
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">CNC-accurate steel fabrication</a></li>\n                                                    <li><a href="javascript:;">Custom sizes and load capacities</a></li>\n                                                    <li><a href="javascript:;">Full range of RAL color options</a></li>\n                                                    <li><a href="javascript:;">Interlocking bracket modifications</a></li>\n
+                                                    <li><a href="javascript:;">100% customized dimensions, load capacities, and shelf configurations</a></li>                                                    <li><a href="javascript:;">Precision CNC laser cutting, punching, and automated robotic welding</a></li>                                                    <li><a href="javascript:;">Tailored CAD spatial modeling and engineering load simulations</a></li>                                                    <li><a href="javascript:;">Specialized racks for tires, textiles, glass sheets, and odd-shaped items</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Corner spacing design options</a></li>\n                                                    <li><a href="javascript:;">Bespoke visual branding displays</a></li>\n                                                    <li><a href="javascript:;">Multi-material product integrations</a></li>\n                                                    <li><a href="javascript:;">Millimeter-accurate CNC cutting</a></li>\n
+                                                    <li><a href="javascript:;">Unlimited RAL powder coating colors, textures, and sheen options</a></li>                                                    <li><a href="javascript:;">Bespoke branding plate laser-engraving and logo panel additions</a></li>                                                    <li><a href="javascript:;">Multi-material integration (steel, stainless steel, wood, glass, acrylic)</a></li>                                                    <li><a href="javascript:;">Prototyping and sample validation prior to full batch production</a></li>
                                                 </ul>
                                             </div>                                        
                                         </div>
                                     </div>
                                 </div>
 
+                                <h4 class="m-t30 sx-tilte">Frequently Asked Questions</h4>
                                 <div class="sx-accordion acc-bg-gray m-b30" id="accordion5">
                                     <div class="panel sx-panel">
                                         <div class="acod-head acc-actives">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse0Svc"  data-parent="#accordion5">
-                                                    What is the timeline for custom racking system orders?
+                                                    What is the lead time for custom racking order manufacturing?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse0Svc" class="acod-body collapse show">
                                             <div class="acod-content p-tb15">
-                                                <p>Custom configurations generally take 10 to 15 business days to manufacture and dispatch after CAD drawing approval.</p>
+                                                <p>Custom racking projects typically take 10 to 15 business days for engineering approval, CNC fabrication, powder coating, and dispatch.</p>
                                             </div>
                                         </div>
-                                    </div>\n                                    <div class="panel sx-panel">
+                                    </div>                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
-                                                    Do you charge extra for designing custom layouts?
+                                                    Do you charge additional fees for custom layout consultations?
                                                     <span class="indicator"><i class="fa"></i></span>
                                                 </a>
                                              </h6>
                                         </div>
                                         <div id="collapse1Svc" class="acod-body collapse ">
                                             <div class="acod-content p-tb15">
-                                                <p>No. We provide free layout measurements and CAD consultations for all new project orders.</p>
+                                                <p>No. We provide complimentary site measurements, spatial consultations, and 2D/3D layout drawings for new project inquiries.</p>
                                             </div>
                                         </div>
-                                    </div>\n
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
+                                                    Can you fabricate racks for non-standard products like tires or fabric rolls?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse2Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>Yes! We design specialized racks for automotive tires, textile roll mandrels, cable drums, glass panels, and heavy manufacturing components.</p>
+                                            </div>
+                                        </div>
+                                    </div>                                    <div class="panel sx-panel">
+                                        <div class="acod-head ">
+                                             <h6 class="acod-title">
+                                                <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
+                                                    What materials can be customized?
+                                                    <span class="indicator"><i class="fa"></i></span>
+                                                </a>
+                                             </h6>
+                                        </div>
+                                        <div id="collapse3Svc" class="acod-body collapse ">
+                                            <div class="acod-content p-tb15">
+                                                <p>We customize steel gauge thickness, shelf depths, column heights, slot pitches, shelf surface materials (steel, wood, wire mesh), and powder coat finishes.</p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>                                        
                             </div>
                         </div>

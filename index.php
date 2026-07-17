@@ -36,7 +36,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.3">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -204,9 +204,9 @@
                            
                            
                         <!-- SLIDE 2 -->
-                        <li data-index="rs-72" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/main-slider/slider3/slide3.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                        <li data-index="rs-72" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/main-slider/slider3/slide3.webp"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
-                            <img src="images/main-slider/slider3/slide3.jpg" data-bgcolor='#f8f8f8' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+                            <img src="images/main-slider/slider3/slide3.webp" data-bgcolor='#f8f8f8' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
             				<!-- LAYER 1  right image overlay dark-->
                         	<div class="tp-caption tp-shape tp-shapewrapper  rs-parallaxlevel-tobggroup" 
@@ -335,7 +335,7 @@
                         
                                                                           	
                         <!-- SLIDE 3 -->
-                        <li data-index="rs-73" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/main-slider/slider3/slide1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                        <li data-index="rs-73" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/main-slider/slider3/slide1.webp"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="1" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                             <!-- MAIN IMAGE -->
                             <img src="images/main-slider/slider3/slide1.webp" data-bgcolor='#f8f8f8' alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
                             
@@ -481,26 +481,25 @@
                         	<div class="row">
                                 <div class="col-xl-6 col-lg-6 col-md-12">
                                 
-                                	<div class="about-home-3 m-b30 bg-white">
-                                    	<h3 class="m-t0 m-b20 sx-tilte">A small efficient interior design team.</h3>
-                                        <p>Inteshape is a team of highly talented, experienced, and award-winning architects and designers. Our company has been the leading provider of architecture services to clients throughout the USA since 1999. We pay attention to every demand...</p>
+                                 	<div class="about-home-3 m-b30 bg-white">
+                                     	<h3 class="m-t0 m-b20 sx-tilte">Your Trusted Racking System Manufacturer in Delhi, India</h3>
+                                         <p>Spazio Racking System is a leading Racking System Manufacturer in Delhi, India, delivering innovative Racking Solution in India for retail stores, supermarkets, warehouses, commercial spaces, and industrial facilities. Our experienced team designs and manufactures durable, space-efficient, and customized racking systems that improve storage capacity and operational efficiency. We are committed to quality, precision, and customer satisfaction in every project.</p>
 
 									<ul class="list-angle-right anchor-line">
-                                        <li><a href="#">We provide a architectural 3D modeling services.</a></li>
-                                        <li><a href="#">Our specialists are ready to consult you on any topic.</a></li>
-                                        <li><a href="#">We develop and implement better interior design.</a></li>
-                                        <li><a href="#">We provide high-quality interior services for clients.</a></li>
+                                        <li><a href="javascript:;">We manufacture customized racking systems for every business requirement.</a></li>
+                                        <li><a href="javascript:;">Our experts provide complete consultation, planning, and installation support.</a></li>
+                                        <li><a href="javascript:;">We deliver smart, durable, and space-optimized storage solutions.</a></li>
+                                        <li><a href="javascript:;">We use premium-quality materials to ensure long-lasting performance.</a></li>
                                     </ul>
 
-                                        <div class="text-left">
-                                            <a href="javascript:;" class="site-button btn-half"><span>Read More</span></a>
-                                        </div>                                                    
-                                    </div>
-                                </div>
+                                         <div class="text-left">
+                                             <a href="about.php" class="site-button btn-half"><span>Read More</span></a>
+                                         </div>                                                    
+                                     </div>  </div>
                                 
                             	<div class="col-xl-6 col-lg-6 col-md-12">
 									<div class="video-section-full-v2">
-                                        <div class="video-section-full bg-no-repeat bg-cover bg-center overlay-wraper m-b30" style="background-image:url(images/video-bg.jpg)">
+                                        <div class="video-section-full bg-no-repeat bg-cover bg-center overlay-wraper m-b30" style="background-image:url(images/video-bg.webp)">
                                             <div class="overlay-main bg-black opacity-04"></div>
                                             <div class="video-section-inner">
                                                 <div class="video-section-content">
@@ -629,7 +628,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/services/service-projects/2.jpg" alt="Supermarket Racking Solutions">
+                                		<img src="images/services/super-market-racking-solution.png" alt="Supermarket Racking Solutions">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></h4>
@@ -643,7 +642,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/services/service-projects/1.jpg" alt="Retail Display Racking Solutions">
+                                		<img src="images/services/retail-display-racking-solutions.jpg" alt="Retail Display Racking Solutions">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></h4>
@@ -657,7 +656,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/services/service-projects/7.jpg" alt="Warehouse Storage Solutions">
+                                		<img src="images/services/warehouse-storage-solution.jpg" alt="Warehouse Storage Solutions">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></h4>
@@ -671,7 +670,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/services/service-projects/4.jpg" alt="Industrial Racking Solutions">
+                                		<img src="images/services/industrial-racking-solutions.jpg" alt="Industrial Racking Solutions">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></h4>
@@ -685,7 +684,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/gallery/pic1.jpg" alt="Departmental Store Racking">
+                                		<img src="images/services/departmental-store-racking.jpg" alt="Departmental Store Racking">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="departmental-store-racking.php">Departmental Store Racking</a></h4>
@@ -699,7 +698,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/services/service-projects/3.jpg" alt="Custom Racking Systems">
+                                		<img src="images/services/custom-racking-systems.jpg" alt="Custom Racking Systems">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="custom-racking-systems.php">Custom Racking Systems</a></h4>
@@ -713,7 +712,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/services/service-projects/5.jpg" alt="Retail Fixtures & Accessories">
+                                		<img src="images/services/retail-fixtures-accessories.jpg" alt="Retail Fixtures & Accessories">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></h4>
@@ -727,7 +726,7 @@
                         	<div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-three slide-ani-top">
                                 	<div class="sx-media">
-                                		<img src="images/gallery/pic2.jpg" alt="Shopping Trolleys & Baskets">
+                                		<img src="images/services/shopping-trolleys-baskets.jpg" alt="Shopping Trolleys & Baskets">
                                     </div>
                                     <div class="figcaption bg-gray p-a30">
                                         <h4 class="m-tb0"><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></h4>
@@ -748,166 +747,137 @@
                 <div class="container-fluid">
                     <div class="section-content">
                         <!-- TITLE START -->
-                        <div class="section-head">
+                        <div class="section-head text-center">
                             <div class="sx-separator-outer separator-center">
                                 <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-                                    <h3 class="sep-line-one">Similar Project</h3>
+                                    <h3 class="sep-line-one">Similar Projects</h3>
                                 </div>
                             </div>
+                            <p class="text-center" style="max-width: 700px; margin: 10px auto 30px auto; font-size: 16px; color: #555;">Browse through our successfully executed racking projects across retail supermarkets, industrial facilities, and logistics warehouses throughout India.</p>
                         </div>                   
                         <!-- TITLE END -->                                 
                         <div class="work-carousel-outer">
                             <div class="owl-carousel mfp-gallery project-carousel project-carousel3 owl-btn-vertical-center p-lr80">
+                                
                                 <!-- COLUMNS 1 -->
                                 <div class="item">
                                     <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                          <img src="images/projects/square/pic4.jpg" alt="" />
+                                           <img src="images/services/super-market-racking-solution.png" alt="Supermarket Display Racking" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/portrait/pic4.jpg">
+                                                <a class="mfp-link" href="images/services/super-market-racking-solution.png">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
                                         </div> 
                                         <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Life style building</a></h4>
-                                            <p>We provide a range of architectural 3D modeling services to our customers to aid the design</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
+                                            <h4 class="sx-tilte m-t0"><a href="supermarket-racking-solutions.php">Supermarket Display Racking</a></h4>
+                                            <p>Turnkey supermarket display racking installation for retail grocery chains, optimizing aisle layouts and shelf spacing.</p>
+                                            <a href="supermarket-racking-solutions.php"><i class="link-plus bg-primary"></i></a>
                                         </div>
                                     </div>                                                       
                                 </div>
+                                
                                 <!-- COLUMNS 2 -->
                                 <div class="item">
                                    <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                          <img src="images/projects/square/pic9.jpg" alt="" />
+                                           <img src="images/services/warehouse-storage-solution.jpg" alt="Warehouse Pallet Racking" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/square/pic9.jpg">
+                                                <a class="mfp-link" href="images/services/warehouse-storage-solution.jpg">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
                                         </div> 
                                         <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Modern Bathroom</a></h4>
-                                            <p>Analysis and planning services that help both the client and architects to work out the forthcoming project...</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
+                                            <h4 class="sx-tilte m-t0"><a href="warehouse-storage-solutions.php">Warehouse Pallet Racking</a></h4>
+                                            <p>Heavy-duty selective pallet racking setup for logistics distribution centers, supporting weight loads up to 4000 kg per tier.</p>
+                                            <a href="warehouse-storage-solutions.php"><i class="link-plus bg-primary"></i></a>
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <!-- COLUMNS 3 -->
                                 <div class="item">
                                    <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                          <img src="images/projects/square/pic10.jpg" alt="" />
+                                           <img src="images/services/retail-store-shelving.jpg" alt="Retail Store Shelving" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/square/pic10.jpg">
+                                                <a class="mfp-link" href="images/services/retail-store-shelving.jpg">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
                                         </div> 
                                         <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Dream House</a></h4>
-                                            <p>We offer comprehensive Architectural Engineering Services including Interior design, Master planning.</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
+                                            <h4 class="sx-tilte m-t0"><a href="retail-display-racking-solutions.php">Retail Store Shelving</a></h4>
+                                            <p>Premium modular display racks for electronics and clothing retail showrooms, focusing on visual merchandising and product visibility.</p>
+                                            <a href="retail-display-racking-solutions.php"><i class="link-plus bg-primary"></i></a>
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <!-- COLUMNS 4 -->
                                 <div class="item">
                                    <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                          <img src="images/projects/square/pic6.jpg" alt="" />
+                                           <img src="images/services/industrial-cantilever-racking.jpg" alt="Industrial Cantilever Racking" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/portrait/pic6.jpg">
+                                                <a class="mfp-link" href="images/services/service-projects/4.jpg">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
                                         </div> 
                                         <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Bellevue Projects</a></h4>
-                                            <p>Project management is the process by which our team plans and executes your project. We will develop it...</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
+                                            <h4 class="sx-tilte m-t0"><a href="industrial-racking-solutions.php">Industrial Cantilever Racking</a></h4>
+                                            <p>Customized cantilever steel racking for storing pipe channels, steel tubes, and long heavy-duty raw industrial materials.</p>
+                                            <a href="industrial-racking-solutions.php"><i class="link-plus bg-primary"></i></a>
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <!-- COLUMNS 5 -->
                                 <div class="item">
                                    <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                          <img src="images/projects/square/pic7.jpg" alt="" />
+                                           <img src="images/gallery/pic1.jpg" alt="Multi-Tier Mezzanine Floor" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/square/pic7.jpg">
+                                                <a class="mfp-link" href="images/gallery/pic1.jpg">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
                                         </div> 
                                         <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Modish Interior</a></h4>
-                                            <p>Our team also provides consultations on all architectural issues, even if you need specific...</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
+                                            <h4 class="sx-tilte m-t0"><a href="departmental-store-racking.php">Multi-Tier Mezzanine Floor</a></h4>
+                                            <p>Multi-tier heavy-duty structural steel mezzanine installation to double warehouse vertical storage space.</p>
+                                            <a href="departmental-store-racking.php"><i class="link-plus bg-primary"></i></a>
                                         </div>
                                     </div>
                                 </div>
+                                
                                 <!-- COLUMNS 6 -->
                                 <div class="item">
                                     <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                          <img src="images/projects/square/pic8.jpg" alt="" />
+                                           <img src="images/services/service-projects/3.jpg" alt="Custom Display Racks" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/square/pic8.jpg">
+                                                <a class="mfp-link" href="images/services/service-projects/3.jpg">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
                                         </div> 
                                         <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Vilters</a></h4>
-                                            <p>We combine Interior and Exterior Design services and often provide them as a single solution. It helps us...</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
+                                            <h4 class="sx-tilte m-t0"><a href="custom-racking-systems.php">Custom Display Racks</a></h4>
+                                            <p>Precision CNC fabricated display systems matching specific client colors and pegboard hooks configurations.</p>
+                                            <a href="custom-racking-systems.php"><i class="link-plus bg-primary"></i></a>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- COLUMNS 7 -->
-                                <div class="item">
-                                     <div class="project-mas hover-shadow m-a30">
-                                        <div class="image-effect-one">
-                                          <img src="images/projects/square/pic9.jpg" alt="" />
-                                            <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/portrait/pic9.jpg">
-                                                    <i class="fa fa-arrows-alt"></i>
-                                                </a>  
-                                            </div>
-                                        </div> 
-                                        <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Dream Home</a></h4>
-                                            <p>Project management is the process by which our team plans and executes your project. We will develop it...</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- COLUMNS 8 -->
-                                <div class="item">
-                                     <div class="project-mas hover-shadow m-a30">
-                                        <div class="image-effect-one">
-                                          <img src="images/projects/square/pic2.jpg" alt="" />
-                                            <div class="figcaption">
-                                                <a class="mfp-link" href="images/projects/square/pic2.jpg">
-                                                    <i class="fa fa-arrows-alt"></i>
-                                                </a>  
-                                            </div>
-                                        </div> 
-                                        <div class="project-info p-a20 bg-gray">
-                                            <h4 class="sx-tilte m-t0"><a href="javascript:;">Living Room</a></h4>
-                                            <p>We combine Interior and Exterior Design services and often provide them as a single solution. It helps us...</p>
-                                            <a href="#"><i class="link-plus bg-primary"></i></a>
-                                        </div>
-                                    </div>
-                                </div>                                                                                                                            
+                                                                                                                            
                              </div>
                         </div> 
                      </div>
                  </div>
-             </div>           
-            <!-- PROJECTS END --> 
+             </div> 
                           
              <!-- OUR BLOG START -->
              <div class="section-full mobile-page-padding bg-gray p-t80 p-b50">
@@ -1012,7 +982,7 @@
                  <div class="owl-carousel service-slider-two owl-btn-vertical-center"> 
                   
                     <div class="item">              
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/service-projects/2.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/super-market-racking-solution.png)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
@@ -1032,7 +1002,7 @@
                     </div>
                     
                     <div class="item">
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/service-projects/1.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/super-market-racking-solution.png)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
@@ -1052,7 +1022,7 @@
                     </div>
                     
                     <div class="item">
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/service-projects/7.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/custom-racking-systems.jpg)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
@@ -1072,7 +1042,7 @@
                     </div>
                     
                     <div class="item">
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/service-projects/4.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/industrial-racking-solutions.jpg)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
@@ -1092,7 +1062,7 @@
                     </div>  
                     
                     <div class="item">              
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/gallery/pic1.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/retail-fixtures-accessories.jpg)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
@@ -1112,7 +1082,7 @@
                     </div>
                     
                     <div class="item">
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/service-projects/3.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/custom-racking-systems.jpg)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
@@ -1132,7 +1102,7 @@
                     </div>
  
                     <div class="item">
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/service-projects/5.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/retail-fixtures-accessories.jpg)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
@@ -1152,7 +1122,7 @@
                     </div>
  
                     <div class="item">
-                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/gallery/pic2.jpg)">
+                        <div class="bgcall-block d-flex flex-wrap justify-content-center align-content-end bg-cover overlay-wraper" style="background-image:url(images/services/shopping-trolleys-baskets.jpg)">
                         	<div class="overlay-main bg-black opacity-05"></div>
                             <div class="bg-content-mid-outer">
                                 <div class="bg-content-mid">
