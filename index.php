@@ -801,9 +801,9 @@
                                 <div class="item">
                                    <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                           <img src="images/services/retail-store-shelving.jpg" alt="Retail Store Shelving" style="height: 300px; object-fit: cover;" />
+                                           <img src="images/services/retail-display-racking-solutions.jpg" alt="Retail Store Shelving" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/services/retail-store-shelving.jpg">
+                                                <a class="mfp-link" href="images/services/retail-display-racking-solutions.jpg">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
@@ -820,9 +820,9 @@
                                 <div class="item">
                                    <div class="project-mas hover-shadow m-a30">
                                         <div class="image-effect-one">
-                                           <img src="images/services/industrial-cantilever-racking.jpg" alt="Industrial Cantilever Racking" style="height: 300px; object-fit: cover;" />
+                                           <img src="images/services/industrial-racking-solutions.jpg" alt="Industrial Cantilever Racking" style="height: 300px; object-fit: cover;" />
                                             <div class="figcaption">
-                                                <a class="mfp-link" href="images/services/service-projects/4.jpg">
+                                                <a class="mfp-link" href="images/services/industrial-racking-solutions.jpg">
                                                     <i class="fa fa-arrows-alt"></i>
                                                 </a>  
                                             </div>
@@ -902,7 +902,7 @@
                                  <div class="blog-post blog-lg date-style-3 block-shadow">
                                     <div class="sx-post-media sx-img-effect zoom-slow">
                                         <div class="sx-thum-bx sx-img-overlay1 sx-img-effect">
-                                            <img src="images/services/service-projects/7.jpg" alt="How to Choose the Right Racking System" style="height: 380px; object-fit: cover;">
+                                            <img src="https://images.pexels.com/photos/36126305/pexels-photo-36126305.jpeg" alt="How to Choose the Right Racking System" style="height: 380px; object-fit: cover;">
                                         </div>
                                     </div>
                                     <div class="sx-post-info bg-white">
@@ -931,7 +931,7 @@
                                  <div class="blog-post blog-lg date-style-3 block-shadow">
                                     <div class="sx-post-media sx-img-effect zoom-slow">
                                         <div class="sx-thum-bx sx-img-overlay1 sx-img-effect">
-                                            <img src="images/services/service-projects/1.jpg" alt="Top Benefits of Modern Racking Solutions" style="height: 380px; object-fit: cover;">
+                                            <img src="https://images.pexels.com/photos/36126272/pexels-photo-36126272.jpeg" alt="Top Benefits of Modern Racking Solutions" style="height: 380px; object-fit: cover;">
                                         </div>
                                     </div>
                                     <div class="sx-post-info bg-white">
