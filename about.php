@@ -34,7 +34,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5?v=1.5?v=1.6">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -60,15 +60,15 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_about.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/5.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
                     	<div class="sx-bnr-glass-card">
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
-                                    <h2 class="m-tb0" style="color: #fff;">About Spazio Racking</h2>
-                                    <p style="color: rgba(255, 255, 255, 0.85); font-size: 16px;">Pioneering Precision Storage Engineering & Turnkey Racking Manufacturing Across India</p>
+                                    <h2 class="m-tb0" style="color: #fff;">Spazio</h2>
+                                    <p style="color: rgba(255, 255, 255, 0.85);"></p>
                                 </div>
                             </div>
                             <!-- BREADCRUMB ROW -->                            
@@ -86,25 +86,25 @@
             <!-- INNER PAGE BANNER END -->
              
             <!-- ABOUT COMPANY START -->
-            <div class="section-full mobile-page-padding p-t80 p-b80 bg-gray">
+            <div class="section-full mobile-page-padding p-t40 p-b40 bg-gray">
                 <div class="container">
                     <div class="section-content">
                         <div class="row align-items-center">
-                            <div class="col-xl-5 col-lg-5 col-md-12 m-b30">
-                                <div class="about-image-wrap" style="box-shadow: 0 15px 35px rgba(0,0,0,0.15); border-radius: 8px; overflow: hidden;">
-                                    <img src="images/services/warehouse-storage-solution.jpg" alt="Spazio Racking Manufacturing" style="width: 100%; height: 440px; object-fit: cover; display: block;">
+                            <div class="col-xl-5 col-lg-5 col-md-12 m-b20">
+                                <div class="about-image-wrap" style="box-shadow: 0 10px 25px rgba(0,0,0,0.12); border-radius: 8px; overflow: hidden;">
+                                    <img src="images/services/warehouse-storage-solution.jpg" alt="Spazio Racking Manufacturing" style="width: 100%; height: 350px; object-fit: cover; display: block;">
                                 </div>
                             </div>
                             
                             <div class="col-xl-7 col-lg-7 col-md-12">
-                                <div class="about-home-2 p-l20">
-                                    <span class="text-uppercase" style="color: #d7b39a; font-weight: 600; letter-spacing: 2px;">Established 2018 | Delhi, India</span>
-                                    <h3 class="m-t10 m-b20 sx-tilte">Your Trusted Racking System Manufacturer in Delhi, India</h3>
-                                    <p>Spazio Racking System is a premier Racking System Manufacturer in Delhi, India, delivering innovative Racking Solutions for retail stores, supermarkets, logistics warehouses, commercial spaces, and industrial manufacturing plants. Our experienced engineering team designs and fabricates durable, space-efficient, and customized racking systems that dramatically improve storage capacity and operational efficiency. We are committed to structural safety, precision fabrication, and customer satisfaction in every project.</p>
+                                <div class="about-home-2 p-l15">
+                                    <span class="text-uppercase" style="color: #d7b39a; font-weight: 600; letter-spacing: 2px; font-size: 13px;">Established 2018 | Delhi, India</span>
+                                    <h3 class="m-t5 m-b15 sx-tilte" style="font-size: 24px;">Your Trusted Racking System Manufacturer in Delhi, India</h3>
+                                    <p class="m-b15" style="font-size: 14px; line-height: 1.6;">Spazio Racking System is a premier Racking System Manufacturer in Delhi, India, delivering innovative Racking Solutions for retail stores, supermarkets, logistics warehouses, commercial spaces, and industrial manufacturing plants. Our experienced engineering team designs and fabricates durable, space-efficient, and customized racking systems that dramatically improve storage capacity and operational efficiency. We are committed to structural safety, precision fabrication, and customer satisfaction in every project.</p>
                                     
-                                    <p>Operating out of Mayapuri Industrial Area, Delhi, our manufacturing facility features automated CNC laser cutters, high-precision hydraulic press brakes, 7-tank chemical rust pre-treatment plants, and automated electrostatic powder coating lines. We manufacture strictly in compliance with international SEMA guidelines and Indian IS structural codes.</p>
+                                    <p class="m-b15" style="font-size: 14px; line-height: 1.6;">Operating out of Mayapuri Industrial Area, Delhi, our manufacturing facility features automated CNC laser cutters, high-precision hydraulic press brakes, 7-tank chemical rust pre-treatment plants, and automated electrostatic powder coating lines. We manufacture strictly in compliance with international SEMA guidelines and Indian IS structural codes.</p>
                                     
-                                    <ul class="list-angle-right anchor-line" style="margin-bottom: 25px;">
+                                    <ul class="list-angle-right anchor-line" style="margin-bottom: 15px;">
                                         <li><a href="javascript:;">Customized racking systems engineered for every business scale.</a></li>
                                         <li><a href="javascript:;">Complimentary 2D/3D CAD spatial layout planning and load audits.</a></li>
                                         <li><a href="javascript:;">Heavy-duty cold-rolled steel columns with 10+ year anti-rust powder coating.</a></li>
@@ -119,31 +119,31 @@
             <!-- ABOUT COMPANY END -->
 
             <!-- COUNTER STATS SECTION START -->
-            <div class="section-full p-tb60 sx-bg-secondry text-white mobile-page-padding">
+            <div class="section-full p-tb30 sx-bg-secondry text-white mobile-page-padding">
                 <div class="container">
                     <div class="row text-center">
-                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
-                            <div class="counter-box p-a20" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
-                                <h2 class="counter text-white m-b5" style="color: #d7b39a !important; font-weight: 700;">500+</h2>
-                                <h5 class="text-uppercase m-b0 font-14" style="letter-spacing: 1px;">Projects Completed</h5>
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b15">
+                            <div class="counter-box p-a15" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
+                                <h2 class="text-white m-b5" style="color: #d7b39a !important; font-weight: 700; font-size: 32px;"><span class="counter">500</span>+</h2>
+                                <h5 class="text-uppercase m-b0 font-13" style="letter-spacing: 1px;">Projects Completed</h5>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
-                            <div class="counter-box p-a20" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
-                                <h2 class="counter text-white m-b5" style="color: #d7b39a !important; font-weight: 700;">50,000+</h2>
-                                <h5 class="text-uppercase m-b0 font-14" style="letter-spacing: 1px;">Sq. Ft. Facility</h5>
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b15">
+                            <div class="counter-box p-a15" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
+                                <h2 class="text-white m-b5" style="color: #d7b39a !important; font-weight: 700; font-size: 32px;"><span class="counter">50000</span>+</h2>
+                                <h5 class="text-uppercase m-b0 font-13" style="letter-spacing: 1px;">Sq. Ft. Facility</h5>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
-                            <div class="counter-box p-a20" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
-                                <h2 class="counter text-white m-b5" style="color: #d7b39a !important; font-weight: 700;">100%</h2>
-                                <h5 class="text-uppercase m-b0 font-14" style="letter-spacing: 1px;">Quality Inspected</h5>
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b15">
+                            <div class="counter-box p-a15" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
+                                <h2 class="text-white m-b5" style="color: #d7b39a !important; font-weight: 700; font-size: 32px;"><span class="counter">100</span>%</h2>
+                                <h5 class="text-uppercase m-b0 font-13" style="letter-spacing: 1px;">Quality Inspected</h5>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
-                            <div class="counter-box p-a20" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
-                                <h2 class="counter text-white m-b5" style="color: #d7b39a !important; font-weight: 700;">28+</h2>
-                                <h5 class="text-uppercase m-b0 font-14" style="letter-spacing: 1px;">Cities Served</h5>
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b15">
+                            <div class="counter-box p-a15" style="background: rgba(255,255,255,0.05); border-radius: 6px;">
+                                <h2 class="text-white m-b5" style="color: #d7b39a !important; font-weight: 700; font-size: 32px;"><span class="counter">28</span>+</h2>
+                                <h5 class="text-uppercase m-b0 font-13" style="letter-spacing: 1px;">Cities Served</h5>
                             </div>
                         </div>
                     </div>
@@ -151,27 +151,27 @@
             </div>
             <!-- COUNTER STATS SECTION END -->
             
-            <!-- 6-CARD PRODUCT & MANUFACTURING SHOWCASE START -->
-            <div class="section-full mobile-page-padding bg-white p-t80 p-b50 bg-repeat overflow-hide" style="background-image:url(images/background/bg-5.png);">
+            <!-- 6-CARD PRODUCT SHOWCASE START -->
+            <div class="section-full mobile-page-padding bg-white p-t40 p-b20 bg-repeat overflow-hide" style="background-image:url(images/background/bg-5.png);">
 				<div class="container">
                     <!-- TITLE START -->
-					<div class="section-head text-center">
+					<div class="section-head text-center m-b20">
 						<div class="sx-separator-outer separator-center">
 							<div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-								<h3 class="sep-line-one">Our Product Capabilities</h3>
+								<h3 class="sep-line-one" style="font-size: 22px;">Our Product Capabilities</h3>
 							</div>
 						</div>
-                        <p class="text-center" style="max-width: 650px; margin: 10px auto 30px auto; color: #666;">We engineer and manufacture high-performance storage solutions tailored to diverse commercial and industrial operations.</p>
+                        <p class="text-center" style="max-width: 650px; margin: 5px auto 15px auto; color: #666; font-size: 14px;">We engineer and manufacture high-performance storage solutions tailored to diverse commercial and industrial operations.</p>
 					</div>                   
                     <!-- TITLE END -->                 
                     <div class="section-content">
                         <div class="row number-block-one-outer justify-content-center">
 
-                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-                                    <img src="images/services/super-market-racking-solution.png" alt="Supermarket Display Racking" style="height: 250px; width: 100%; object-fit: cover;" />
-                                    <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="supermarket-racking-solutions.php">Supermarket Display Gondolas</a></h4>
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b20">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+                                    <img src="images/services/super-market-racking-solution.png" alt="Supermarket Display Racking" style="height: 200px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a15">
+                                        <h4 class="m-a0" style="font-size: 16px;"><a href="supermarket-racking-solutions.php">Supermarket Display Gondolas</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>01</span>
@@ -179,11 +179,11 @@
                                 </div>
                             </div>
                             
-                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-                                    <img src="images/services/warehouse-storage-solution.jpg" alt="Warehouse Storage Racks" style="height: 250px; width: 100%; object-fit: cover;" />
-                                    <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="warehouse-storage-solutions.php">Warehouse Pallet Racking</a></h4>
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b20">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+                                    <img src="images/services/warehouse-storage-solution.jpg" alt="Warehouse Storage Racks" style="height: 200px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a15">
+                                        <h4 class="m-a0" style="font-size: 16px;"><a href="warehouse-storage-solutions.php">Warehouse Pallet Racking</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>02</span>
@@ -191,11 +191,11 @@
                                 </div>
                             </div>
 
-                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-                                    <img src="images/services/industrial-racking-solutions.jpg" alt="Industrial Storage Racks" style="height: 250px; width: 100%; object-fit: cover;" />
-                                    <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="industrial-racking-solutions.php">Industrial Tool & Die Shelving</a></h4>
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b20">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+                                    <img src="images/services/industrial-racking-solutions.jpg" alt="Industrial Storage Racks" style="height: 200px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a15">
+                                        <h4 class="m-a0" style="font-size: 16px;"><a href="industrial-racking-solutions.php">Industrial Tool & Die Shelving</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>03</span>
@@ -203,11 +203,11 @@
                                 </div>
                             </div>
 
-                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-                                    <img src="images/services/retail-display-racking-solutions.jpg" alt="Retail Store Shelving" style="height: 250px; width: 100%; object-fit: cover;" />
-                                    <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="retail-display-racking-solutions.php">Retail Store Display Shelves</a></h4>
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b20">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+                                    <img src="images/services/retail-display-racking-solutions.jpg" alt="Retail Store Shelving" style="height: 200px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a15">
+                                        <h4 class="m-a0" style="font-size: 16px;"><a href="retail-display-racking-solutions.php">Retail Store Display Shelves</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>04</span>
@@ -215,11 +215,11 @@
                                 </div>
                             </div>
 
-                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-                                    <img src="images/services/custom-racking-systems.jpg" alt="Custom Racking Systems" style="height: 250px; width: 100%; object-fit: cover;" />
-                                    <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="custom-racking-systems.php">Custom Racks & Mezzanines</a></h4>
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b20">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+                                    <img src="images/services/custom-racking-systems.jpg" alt="Custom Racking Systems" style="height: 200px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a15">
+                                        <h4 class="m-a0" style="font-size: 16px;"><a href="custom-racking-systems.php">Custom Racks & Mezzanines</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>05</span>
@@ -227,11 +227,11 @@
                                 </div>
                             </div>
 
-                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-                                    <img src="images/services/shopping-trolleys-baskets.jpg" alt="Shopping Trolleys and Baskets" style="height: 250px; width: 100%; object-fit: cover;" />
-                                    <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></h4>
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b20">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+                                    <img src="images/services/shopping-trolleys-baskets.jpg" alt="Shopping Trolleys and Baskets" style="height: 200px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a15">
+                                        <h4 class="m-a0" style="font-size: 16px;"><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>06</span>
@@ -246,51 +246,51 @@
             <!-- 6-CARD PRODUCT SHOWCASE END -->          
 
             <!-- TECHNICAL & ENGINEERING STANDARDS START -->
-            <div class="section-full p-t80 p-b50 bg-gray mobile-page-padding">
+            <div class="section-full p-t40 p-b30 bg-gray mobile-page-padding">
                 <div class="container">
-                    <div class="section-head text-center">
+                    <div class="section-head text-center m-b20">
                         <div class="sx-separator-outer separator-center">
                             <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-                                <h3 class="sep-line-one">Engineering & Quality Standards</h3>
+                                <h3 class="sep-line-one" style="font-size: 22px;">Engineering & Quality Standards</h3>
                             </div>
                         </div>
                     </div>
                     <div class="section-content">
                         <div class="row">
-                            <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-                                    <div class="icon-lg m-b15" style="color: #d7b39a;">
+                            <div class="col-lg-3 col-md-6 col-sm-12 m-b20">
+                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
+                                    <div class="icon-lg m-b10" style="color: #d7b39a;">
                                         <i class="fa fa-cogs"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">Cold-Rolled Steel</h4>
-                                    <p class="font-14">Fabricated exclusively from prime IS 2062 cold-rolled structural steel coils for maximum yield strength.</p>
+                                    <h4 class="sx-tilte m-b10" style="font-size: 16px;">Cold-Rolled Steel</h4>
+                                    <p class="font-13 m-b0">Fabricated exclusively from prime IS 2062 cold-rolled structural steel coils for maximum yield strength.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-                                    <div class="icon-lg m-b15" style="color: #d7b39a;">
+                            <div class="col-lg-3 col-md-6 col-sm-12 m-b20">
+                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
+                                    <div class="icon-lg m-b10" style="color: #d7b39a;">
                                         <i class="fa fa-flask"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">7-Tank Anti-Rust Process</h4>
-                                    <p class="font-14">Multi-stage chemical degreasing, phosphating, and passivation process ensuring 10+ year corrosion resistance.</p>
+                                    <h4 class="sx-tilte m-b10" style="font-size: 16px;">7-Tank Anti-Rust Process</h4>
+                                    <p class="font-13 m-b0">Multi-stage chemical degreasing, phosphating, and passivation process ensuring 10+ year corrosion resistance.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-                                    <div class="icon-lg m-b15" style="color: #d7b39a;">
+                            <div class="col-lg-3 col-md-6 col-sm-12 m-b20">
+                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
+                                    <div class="icon-lg m-b10" style="color: #d7b39a;">
                                         <i class="fa fa-drafting-compass"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">SEMA Structural Compliance</h4>
-                                    <p class="font-14">Engineered to comply with SEMA and IS structural safety guidelines with safety beam locking pins.</p>
+                                    <h4 class="sx-tilte m-b10" style="font-size: 16px;">SEMA Compliance</h4>
+                                    <p class="font-13 m-b0">Engineered to comply with SEMA and IS structural safety guidelines with safety beam locking pins.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-                                    <div class="icon-lg m-b15" style="color: #d7b39a;">
+                            <div class="col-lg-3 col-md-6 col-sm-12 m-b20">
+                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
+                                    <div class="icon-lg m-b10" style="color: #d7b39a;">
                                         <i class="fa fa-truck"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">Pan-India Installation</h4>
-                                    <p class="font-14">Dedicated project engineers delivering turnkey measurements, layout design, and fast installation.</p>
+                                    <h4 class="sx-tilte m-b10" style="font-size: 16px;">Pan-India Delivery</h4>
+                                    <p class="font-13 m-b0">Dedicated project engineers delivering turnkey measurements, layout design, and fast installation.</p>
                                 </div>
                             </div>
                         </div>
@@ -300,13 +300,13 @@
             <!-- TECHNICAL & ENGINEERING STANDARDS END -->
 
             <!-- OUR JOURNEY SECTION START -->
-            <div class="section-full p-t80 p-b50 sx-bg-secondry bg-no-repeat bg-bottom-center mobile-page-padding" style="background-image:url(images/background/bg-map.png)">
+            <div class="section-full p-t40 p-b30 sx-bg-secondry bg-no-repeat bg-bottom-center mobile-page-padding" style="background-image:url(images/background/bg-map.png)">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-white">
+                    <div class="section-head text-white text-center m-b20">
                         <div class="sx-separator-outer separator-center">
                             <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-                                <h3 class="sep-line-one" style="color: #ffffff;">Our Journey</h3>
+                                <h3 class="sep-line-one" style="color: #ffffff; font-size: 22px;">Our Journey</h3>
                               </div>
                           </div>
                       </div>                   
@@ -314,68 +314,68 @@
                   
                       <div class="section-content ">
                           <div class="row">
-                              <div class="col-xl-6 col-lg-6 col-md-12 m-b30">
-                                  <div class="sx-box our-story text-white">
+                              <div class="col-xl-6 col-lg-6 col-md-12 m-b20">
+                                  <div class="sx-box our-story text-white" style="margin-bottom: 20px;">
                                       <div class="mt-media our-story-info d-flex justify-content-start">
                                           <div class="our-story-time"><span class="date">01</span><span class="month">Jan</span></div>
                                           <h4 class="text-uppercase our-story-year">2018</h4>
                                       </div>
                                       <div class="our-story-detail">
-                                          <h4>Company Established</h4>
-                                          <p>Spazio Racking System was founded with a vision to deliver innovative and durable Racking Solutions in India for retail, warehouse, and industrial businesses.</p>
+                                          <h4 style="font-size: 16px;">Company Established</h4>
+                                          <p class="font-13">Spazio Racking System was founded with a vision to deliver innovative and durable Racking Solutions in India for retail, warehouse, and industrial businesses.</p>
                                       </div>
                                   </div>
-                                  <div class="sx-box our-story text-white">
+                                  <div class="sx-box our-story text-white" style="margin-bottom: 20px;">
                                       <div class="mt-media our-story-info d-flex justify-content-start">
                                           <div class="our-story-time"><span class="date">15</span><span class="month">May</span></div>
                                           <h4 class="text-uppercase our-story-year">2019</h4>
                                       </div>
                                       <div class="our-story-detail">
-                                          <h4>Customized Racking Solutions</h4>
-                                          <p>Expanded our expertise in manufacturing customized supermarket, warehouse, and retail racking systems tailored to diverse business requirements.</p>
+                                          <h4 style="font-size: 16px;">Customized Racking Solutions</h4>
+                                          <p class="font-13">Expanded our expertise in manufacturing customized supermarket, warehouse, and retail racking systems tailored to diverse business requirements.</p>
                                       </div>
                                   </div>
-                                  <div class="sx-box our-story text-white">
+                                  <div class="sx-box our-story text-white" style="margin-bottom: 20px;">
                                       <div class="mt-media our-story-info d-flex justify-content-start">
                                           <div class="our-story-time"><span class="date">10</span><span class="month">Nov</span></div>
                                           <h4 class="text-uppercase our-story-year">2020</h4>
                                       </div>
                                       <div class="our-story-detail">
-                                          <h4>Manufacturing Excellence</h4>
-                                          <p>Enhanced production capabilities using premium-grade materials and precision engineering to ensure superior quality and long-lasting performance.</p>
+                                          <h4 style="font-size: 16px;">Manufacturing Excellence</h4>
+                                          <p class="font-13">Enhanced production capabilities using premium-grade materials and precision engineering to ensure superior quality and long-lasting performance.</p>
                                       </div>
                                   </div>
                                </div>
                                
                               <div class="col-xl-6 col-lg-6 col-md-12">
-                                  <div class="sx-box our-story text-white">
+                                  <div class="sx-box our-story text-white" style="margin-bottom: 20px;">
                                       <div class="mt-media our-story-info d-flex justify-content-start">
                                           <div class="our-story-time"><span class="date">22</span><span class="month">Apr</span></div>
                                           <h4 class="text-uppercase our-story-year">2022</h4>
                                       </div>
                                       <div class="our-story-detail">
-                                          <h4>Pan India Project Delivery</h4>
-                                          <p>Successfully completed racking installation projects across multiple cities, serving supermarkets, warehouses, retail stores, and commercial businesses throughout India.</p>
+                                          <h4 style="font-size: 16px;">Pan India Project Delivery</h4>
+                                          <p class="font-13">Successfully completed racking installation projects across multiple cities, serving supermarkets, warehouses, retail stores, and commercial businesses throughout India.</p>
                                       </div>
                                   </div>
-                                  <div class="sx-box our-story text-white">
+                                  <div class="sx-box our-story text-white" style="margin-bottom: 20px;">
                                       <div class="mt-media our-story-info d-flex justify-content-start">
                                           <div class="our-story-time"><span class="date">18</span><span class="month">Aug</span></div>
                                           <h4 class="text-uppercase our-story-year">2024</h4>
                                       </div>
                                       <div class="our-story-detail">
-                                          <h4>Trusted Industry Partner</h4>
-                                          <p>Recognized as a reliable Racking System Manufacturer in Delhi, India, delivering customized storage solutions with quality, innovation, and customer satisfaction.</p>
+                                          <h4 style="font-size: 16px;">Trusted Industry Partner</h4>
+                                          <p class="font-13">Recognized as a reliable Racking System Manufacturer in Delhi, India, delivering customized storage solutions with quality, innovation, and customer satisfaction.</p>
                                       </div>
                                   </div>
-                                  <div class="sx-box our-story text-white">
+                                  <div class="sx-box our-story text-white" style="margin-bottom: 20px;">
                                       <div class="mt-media our-story-info d-flex justify-content-start">
                                           <div class="our-story-time"><span class="date">01</span><span class="month">Jan</span></div>
                                           <h4 class="text-uppercase our-story-year">2026</h4>
                                       </div>
                                       <div class="our-story-detail">
-                                          <h4>Building the Future</h4>
-                                          <p>Continuing to develop smart, space-efficient Racking Solutions in India that help businesses maximize storage, improve workflow, and support long-term growth.</p>
+                                          <h4 style="font-size: 16px;">Building the Future</h4>
+                                          <p class="font-13">Continuing to develop smart, space-efficient Racking Solutions in India that help businesses maximize storage, improve workflow, and support long-term growth.</p>
                                       </div>
                                   </div>
                                </div>
@@ -386,54 +386,54 @@
               <!-- OUR JOURNEY SECTION END -->  
 
              <!-- TESTIMONIAL START -->
-            <div class="section-full mobile-page-padding bg-gray p-t80 p-b50">
+            <div class="section-full mobile-page-padding bg-gray p-t40 p-b40">
                 <div class="section-content">
                     <div class="container">
                         <!-- TITLE START -->
-                        <div class="section-head text-center">
+                        <div class="section-head text-center m-b20">
                             <div class="sx-separator-outer separator-center">
                                 <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-                                    <h3 class="sep-line-one">Client Testimonials</h3>
+                                    <h3 class="sep-line-one" style="font-size: 22px;">Client Testimonials</h3>
                                 </div>
                             </div>
-                            <p class="text-center" style="max-width: 600px; margin: 10px auto 30px auto; color: #666;">Hear what business owners and warehouse directors say about Spazio Racking System.</p>
+                            <p class="text-center" style="max-width: 600px; margin: 5px auto 15px auto; color: #666; font-size: 14px;">Hear what business owners and warehouse directors say about Spazio Racking System.</p>
                         </div>                   
                         <!-- TITLE END -->
                         
                          <div class="owl-carousel testimonial-home-two owl-btn-vertical-center">
                             <div class="item">
-                                <div class="testimonial-1 hover-animation-1 bg-white p-a30" style="border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-                                    <div class="testimonial-detail clearfix m-b15">
+                                <div class="testimonial-1 hover-animation-1 bg-white p-a25" style="border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+                                    <div class="testimonial-detail clearfix m-b10">
                                         <span class="testimonial-position" style="color: #d7b39a; font-weight: 600;">Supermarket Owner</span>
-                                        <h4 class="testimonial-name m-t5 m-b0">Rajesh Sharma</h4>
+                                        <h4 class="testimonial-name m-t5 m-b0" style="font-size: 16px;">Rajesh Sharma</h4>
                                         <span class="text-muted font-12">Delhi Retail Hub</span>
                                     </div>                                    
                                     <div class="testimonial-text">
-                                        <p>"Spazio transformed our 15,000 sq. ft. supermarket layout with custom island gondolas and heavy base shelving. Product visibility and aisle traffic flow improved significantly."</p>
+                                        <p class="font-13 m-b0">"Spazio transformed our 15,000 sq. ft. supermarket layout with custom island gondolas and heavy base shelving. Product visibility and aisle traffic flow improved significantly."</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="item">
-                                <div class="testimonial-1 hover-animation-1 bg-white p-a30" style="border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-                                    <div class="testimonial-detail clearfix m-b15">
+                                <div class="testimonial-1 hover-animation-1 bg-white p-a25" style="border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+                                    <div class="testimonial-detail clearfix m-b10">
                                         <span class="testimonial-position" style="color: #d7b39a; font-weight: 600;">Logistics Director</span>
-                                        <h4 class="testimonial-name m-t5 m-b0">Vikram Patel</h4>
+                                        <h4 class="testimonial-name m-t5 m-b0" style="font-size: 16px;">Vikram Patel</h4>
                                         <span class="text-muted font-12">Ahmedabad Cold Storage</span>
                                     </div>                                    
                                     <div class="testimonial-text">
-                                        <p>"The selective pallet racks installed by Spazio support up to 4000 kg per beam level. Superior structural rigidity, safety locking pins, and prompt project delivery."</p>
+                                        <p class="font-13 m-b0">"The selective pallet racks installed by Spazio support up to 4000 kg per beam level. Superior structural rigidity, safety locking pins, and prompt project delivery."</p>
                                     </div>
                                 </div>
                             </div> 
                             <div class="item">
-                                <div class="testimonial-1 hover-animation-1 bg-white p-a30" style="border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-                                    <div class="testimonial-detail clearfix m-b15">
+                                <div class="testimonial-1 hover-animation-1 bg-white p-a25" style="border-radius: 6px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+                                    <div class="testimonial-detail clearfix m-b10">
                                         <span class="testimonial-position" style="color: #d7b39a; font-weight: 600;">Showroom Director</span>
-                                        <h4 class="testimonial-name m-t5 m-b0">Anita Verma</h4>
+                                        <h4 class="testimonial-name m-t5 m-b0" style="font-size: 16px;">Anita Verma</h4>
                                         <span class="text-muted font-12">Gurgaon Apparel Mart</span>
                                     </div>                                    
                                     <div class="testimonial-text">
-                                        <p>"Excellent custom display racks and pegboard fixtures! Their engineering team provided free 3D CAD drawings and completed turnkey installation in just 3 days."</p>
+                                        <p class="font-13 m-b0">"Excellent custom display racks and pegboard fixtures! Their engineering team provided free 3D CAD drawings and completed turnkey installation in just 3 days."</p>
                                     </div>
                                 </div>
                             </div>
@@ -444,17 +444,17 @@
             <!-- TESTIMONIAL END -->                          
 
             <!-- ABOUT US FAQ START -->
-            <div class="section-full p-t80 p-b80 bg-white mobile-page-padding">
+            <div class="section-full p-t40 p-b50 bg-white mobile-page-padding">
                 <div class="container">
-                    <div class="section-head text-center">
+                    <div class="section-head text-center m-b20">
                         <div class="sx-separator-outer separator-center">
                             <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-                                <h3 class="sep-line-one">Frequently Asked Questions</h3>
+                                <h3 class="sep-line-one" style="font-size: 22px;">Frequently Asked Questions</h3>
                             </div>
                         </div>
                     </div>
                     <div class="section-content" style="max-width: 900px; margin: 0 auto;">
-                        <div class="sx-accordion acc-bg-gray m-b30" id="aboutFaqAccordion">
+                        <div class="sx-accordion acc-bg-gray m-b20" id="aboutFaqAccordion">
                             <div class="panel sx-panel">
                                 <div class="acod-head acc-actives">
                                      <h6 class="acod-title">
@@ -466,7 +466,7 @@
                                 </div>
                                 <div id="abFaq1" class="acod-body collapse show">
                                     <div class="acod-content p-tb15">
-                                        <p>Our main manufacturing facility is located in Phase 1, Mayapuri Industrial Area, Delhi, India. We operate modern CNC laser cutting, automated bending, and electrostatic powder coating lines.</p>
+                                        <p class="font-13 m-b0">Our main manufacturing facility is located in Phase 1, Mayapuri Industrial Area, Delhi, India. We operate modern CNC laser cutting, automated bending, and electrostatic powder coating lines.</p>
                                     </div>
                                 </div>
                             </div>
@@ -482,7 +482,7 @@
                                 </div>
                                 <div id="abFaq2" class="acod-body collapse">
                                     <div class="acod-content p-tb15">
-                                        <p>Yes! We provide free on-site spatial measurements, weight load capacity audits, and 2D/3D CAD layout planning for all new retail, supermarket, and warehouse inquiries.</p>
+                                        <p class="font-13 m-b0">Yes! We provide free on-site spatial measurements, weight load capacity audits, and 2D/3D CAD layout planning for all new retail, supermarket, and warehouse inquiries.</p>
                                     </div>
                                 </div>
                             </div>
@@ -498,7 +498,7 @@
                                 </div>
                                 <div id="abFaq3" class="acod-body collapse">
                                     <div class="acod-content p-tb15">
-                                        <p>All Spazio racking systems are fabricated from prime IS 2062 cold-rolled steel and designed in compliance with international SEMA and Indian IS structural loading guidelines.</p>
+                                        <p class="font-13 m-b0">All Spazio racking systems are fabricated from prime IS 2062 cold-rolled steel and designed in compliance with international SEMA and Indian IS structural loading guidelines.</p>
                                     </div>
                                 </div>
                             </div>

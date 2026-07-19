@@ -15870,3 +15870,126 @@ form.woocommerce-ordering:after {
     padding-top: 90px !important;
     padding-bottom: 90px !important;
 }
+
+/* Luxury Spazio Dual-Ring Loader */
+.loading-area {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 999999;
+	overflow: hidden;
+}
+
+.loading-box {
+	width: 100%;
+	height: 100%;
+	background: radial-gradient(circle at center, #1a1a1a 0%, #0a0a0a 100%);
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0.98;
+	z-index: 9999;
+}
+
+.loading-pic {
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	z-index: 99999;
+	text-align: center;
+	transform: translateY(-50%);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.spazio-loader-wrapper {
+	position: relative;
+	width: 110px;
+	height: 110px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.spazio-loader-ring {
+	position: absolute;
+	border-radius: 50%;
+}
+
+.spazio-loader-ring.outer-ring {
+	width: 100px;
+	height: 100px;
+	border: 3px solid rgba(215, 179, 154, 0.15);
+	border-top: 3px solid #d7b39a;
+	border-right: 3px solid #d7b39a;
+	animation: spazioSpin 1.1s cubic-bezier(0.68, -0.55, 0.265, 1.55) infinite;
+}
+
+.spazio-loader-ring.inner-ring {
+	width: 76px;
+	height: 76px;
+	border: 2px solid rgba(255, 255, 255, 0.08);
+	border-bottom: 2px solid #ffffff;
+	border-left: 2px solid #ffffff;
+	animation: spazioSpinReverse 0.9s linear infinite;
+}
+
+.spazio-loader-logo {
+	z-index: 10;
+	animation: spazioPulse 1.8s ease-in-out infinite;
+}
+
+.custom-loading-text {
+	color: #ffffff;
+	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: 6px;
+	margin-top: 22px;
+	text-transform: uppercase;
+	animation: spazioPulse 1.8s ease-in-out infinite;
+	padding-left: 6px;
+}
+
+@keyframes spazioSpin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+
+@keyframes spazioSpinReverse {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(-360deg); }
+}
+
+@keyframes spazioPulse {
+	0%, 100% { opacity: 0.6; transform: scale(0.98); }
+	50% { opacity: 1; transform: scale(1.02); }
+}
+
+/* Compact Services Header Dropdown Menu */
+.header-nav .nav > li .sub-menu {
+	width: 270px !important;
+	padding: 6px 0 !important;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12) !important;
+	border-radius: 6px !important;
+	border: 1px solid rgba(0,0,0,0.08) !important;
+}
+
+.header-nav .nav > li .sub-menu li a {
+	padding: 8px 18px !important;
+	font-size: 13px !important;
+	line-height: 1.3 !important;
+	font-weight: 500 !important;
+	color: #333333 !important;
+	white-space: nowrap !important;
+}
+
+.header-nav .nav > li .sub-menu li a:hover {
+	background-color: #f8f9fa !important;
+	color: #d7b39a !important;
+	padding-left: 22px !important;
+}

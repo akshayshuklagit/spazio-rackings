@@ -38,7 +38,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5?v=1.5?v=1.6?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -320,7 +320,7 @@
 
 
             <!-- COUNTER START -->
-            <div class="section-full overlay-wraper sx-bg-secondry mobile-page-padding  p-t80 p-b50 bg-parallax ml-auto"  data-stellar-background-ratio="0.5" style="background-image:url(images/background/bg-1.jpg)">
+            <div class="section-full overlay-wraper sx-bg-secondry mobile-page-padding  p-t80 p-b50 bg-parallax ml-auto"  data-stellar-background-ratio="0.5" style="background-image:url(https://images.pexels.com/photos/9464340/pexels-photo-9464340.jpeg)">
                 <div class="overlay-main bg-black opacity-05"></div>
                 <div class="container">
                     <div class="section-content">
@@ -456,11 +456,17 @@
 <div class="loading-area">
     <div class="loading-box"></div>
     <div class="loading-pic">
-        <div class="custom-spinner"></div>
-        <div class="custom-loading-text">Spazio</div>
+        <div class="spazio-loader-wrapper">
+            <div class="spazio-loader-ring outer-ring"></div>
+            <div class="spazio-loader-ring inner-ring"></div>
+            <div class="spazio-loader-logo">
+                <img src="images/logo-1.png" alt="Spazio Loading" style="max-height: 45px; width: auto;" />
+            </div>
+        </div>
+        <div class="custom-loading-text">SPAZIO RACKING</div>
     </div>
 </div>
-<!-- LOADING AREA  END ====== -->
+<!-- LOADING AREA END ====== -->
 
 <!-- JAVASCRIPT  FILES ========================================= --> 
 <script  src="js/jquery-1.12.4.min.js"></script><!-- JQUERY.MIN JS -->

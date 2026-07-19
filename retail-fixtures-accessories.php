@@ -34,7 +34,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5?v=1.5?v=1.6?v=1.4">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -67,8 +67,8 @@
                     	<div class="sx-bnr-glass-card">
                             <div class="banner-title-outer">
                                 <div class="banner-title-name">
-                                    <h2 class="m-tb0" style="color: #fff;">Retail Fixtures & Accessories</h2>
-                                    <p style="color: rgba(255, 255, 255, 0.85);">High-grade retail fixtures, pegboard hooks, translucent price channels, acrylic shelf dividers, wire promotional dump bins, and checkout lane accessories.</p>
+                                    <h2 class="m-tb0" style="color: #fff;">Spazio</h2>
+                                    <p style="color: rgba(255, 255, 255, 0.85);"></p>
                                 </div>
                             </div>
                             <!-- BREADCRUMB ROW -->                            
@@ -223,11 +223,17 @@
 <div class="loading-area">
     <div class="loading-box"></div>
     <div class="loading-pic">
-        <div class="custom-spinner"></div>
-        <div class="custom-loading-text">Spazio</div>
+        <div class="spazio-loader-wrapper">
+            <div class="spazio-loader-ring outer-ring"></div>
+            <div class="spazio-loader-ring inner-ring"></div>
+            <div class="spazio-loader-logo">
+                <img src="images/logo-1.png" alt="Spazio Loading" style="max-height: 45px; width: auto;" />
+            </div>
+        </div>
+        <div class="custom-loading-text">SPAZIO RACKING</div>
     </div>
 </div>
-<!-- LOADING AREA  END ====== -->
+<!-- LOADING AREA END ====== -->
 
     <!-- JAVASCRIPT FILES ========================================= --> 
     <script src="js/jquery-1.12.4.min.js"></script><!-- JQUERY.MIN JS -->

@@ -6,7 +6,7 @@
                     <div class="logo-header">
                         <div class="logo-header-inner logo-header-one">
                             <a href="index.php" style="text-decoration: none; display: flex; align-items: center; height: 100%;">
-                                <span class="logo-text">SPAZIO<span style="color: #d7b39a;">.</span></span>
+                                <img src="images/logo-1.png" alt="Spazio Racking System" style="max-height: 50px; width: auto; max-width: 180px;" />
                             </a>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                             </li>
                             <li><a href="gallery.php">Gallery</a></li>
                             <li><a href="faq.php">FAQ</a></li>
-                            <li><a href="index.php#contact-us">Contact Us</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>

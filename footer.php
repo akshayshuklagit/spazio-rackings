@@ -10,7 +10,7 @@
                         <div class="widget widget_about">
                             <div class="logo-footer clearfix p-b15">
                                 <a href="index.php" style="text-decoration: none; display: inline-block;">
-                                    <span class="logo-text" style="color: #ffffff;">SPAZIO<span style="color: #d7b39a;">.</span></span>
+                                    <img src="images/logo-1.png" alt="Spazio Racking System" style="max-height: 55px; width: auto; max-width: 200px;" />
                                 </a>
                             </div>
                             <p>Spazio is India's trusted racking system manufacturer, supplying heavy-duty warehouse storage, supermarket shelving, and custom industrial racking solutions across India.</p>                                 

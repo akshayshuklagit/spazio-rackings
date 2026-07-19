@@ -36,7 +36,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5?v=1.5?v=1.6?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -499,7 +499,7 @@
                                 
                             	<div class="col-xl-6 col-lg-6 col-md-12">
 									<div class="video-section-full-v2">
-                                        <div class="video-section-full bg-no-repeat bg-cover bg-center overlay-wraper m-b30" style="background-image:url(images/video-bg.webp)">
+                                        <div class="video-section-full bg-no-repeat bg-cover bg-center overlay-wraper m-b30" style="background-image:url(https://images.pexels.com/photos/4170172/pexels-photo-4170172.jpeg)">
                                             <div class="overlay-main bg-black opacity-04"></div>
                                             <div class="video-section-inner">
                                                 <div class="video-section-content">
@@ -1256,7 +1256,7 @@
             <!-- Our PRICING PLAN -->
                         
             <!-- CONTACT FORM START -->
-            <div class="section-full p-tb80 mobile-page-padding bg-center bg-no-repeat bg-fixed" style="background-image:url(images/background/bg-form.jpg);">
+            <div class="section-full p-tb80 mobile-page-padding bg-center bg-no-repeat bg-fixed" style="background-image:url(https://images.pexels.com/photos/358636/pexels-photo-358636.jpeg);">
 				<div class="section-content">
                     <div class="container get-in-touch-form">
                         <!-- TITLE START -->
@@ -1390,11 +1390,17 @@
 <div class="loading-area">
     <div class="loading-box"></div>
     <div class="loading-pic">
-        <div class="custom-spinner"></div>
-        <div class="custom-loading-text">Spazio</div>
+        <div class="spazio-loader-wrapper">
+            <div class="spazio-loader-ring outer-ring"></div>
+            <div class="spazio-loader-ring inner-ring"></div>
+            <div class="spazio-loader-logo">
+                <img src="images/logo-1.png" alt="Spazio Loading" style="max-height: 45px; width: auto;" />
+            </div>
+        </div>
+        <div class="custom-loading-text">SPAZIO RACKING</div>
     </div>
 </div>
-<!-- LOADING AREA  END ====== -->
+<!-- LOADING AREA END ====== -->
 
 <!-- JAVASCRIPT  FILES ========================================= --> 
 <script  src="js/jquery-1.12.4.min.js"></script><!-- JQUERY.MIN JS -->
