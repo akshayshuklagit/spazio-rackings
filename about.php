@@ -34,7 +34,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -92,17 +92,17 @@
                         <div class="row align-items-center">
                             <div class="col-xl-5 col-lg-5 col-md-12 m-b30">
                                 <div class="about-image-wrap" style="box-shadow: 0 15px 35px rgba(0,0,0,0.15); border-radius: 8px; overflow: hidden;">
-                                    <img src="images/services/warehouse-storage-solution.jpg" alt="Spazio Racking Manufacturing" style="width: 100%; height: 420px; object-fit: cover; display: block;">
+                                    <img src="images/services/warehouse-storage-solution.jpg" alt="Spazio Racking Manufacturing" style="width: 100%; height: 440px; object-fit: cover; display: block;">
                                 </div>
                             </div>
                             
                             <div class="col-xl-7 col-lg-7 col-md-12">
                                 <div class="about-home-2 p-l20">
-                                    <span class="text-uppercase" style="color: #d7b39a; font-weight: 600; letter-spacing: 2px;">Established 2018</span>
+                                    <span class="text-uppercase" style="color: #d7b39a; font-weight: 600; letter-spacing: 2px;">Established 2018 | Delhi, India</span>
                                     <h3 class="m-t10 m-b20 sx-tilte">Your Trusted Racking System Manufacturer in Delhi, India</h3>
-                                    <p>Spazio Racking System is a leading Racking System Manufacturer in Delhi, India, delivering innovative Racking Solution in India for retail stores, supermarkets, warehouses, commercial spaces, and industrial facilities. Our experienced engineering team designs and manufactures durable, space-efficient, and customized racking systems that improve storage capacity and operational efficiency. We are committed to structural safety, precision fabrication, and customer satisfaction in every project.</p>
+                                    <p>Spazio Racking System is a premier Racking System Manufacturer in Delhi, India, delivering innovative Racking Solutions for retail stores, supermarkets, logistics warehouses, commercial spaces, and industrial manufacturing plants. Our experienced engineering team designs and fabricates durable, space-efficient, and customized racking systems that dramatically improve storage capacity and operational efficiency. We are committed to structural safety, precision fabrication, and customer satisfaction in every project.</p>
                                     
-                                    <p>Operating out of Mayapuri Industrial Area, Delhi, our production facility features automated CNC laser cutters, high-precision hydraulic press brakes, multi-stage chemical rust pre-treatment plants, and automated electrostatic powder coating lines. We manufacture in compliance with international SEMA and Indian IS standards.</p>
+                                    <p>Operating out of Mayapuri Industrial Area, Delhi, our manufacturing facility features automated CNC laser cutters, high-precision hydraulic press brakes, 7-tank chemical rust pre-treatment plants, and automated electrostatic powder coating lines. We manufacture strictly in compliance with international SEMA guidelines and Indian IS structural codes.</p>
                                     
                                     <ul class="list-angle-right anchor-line" style="margin-bottom: 25px;">
                                         <li><a href="javascript:;">Customized racking systems engineered for every business scale.</a></li>
@@ -151,26 +151,27 @@
             </div>
             <!-- COUNTER STATS SECTION END -->
             
-            <!-- WHAT WE DO START -->
+            <!-- 6-CARD PRODUCT & MANUFACTURING SHOWCASE START -->
             <div class="section-full mobile-page-padding bg-white p-t80 p-b50 bg-repeat overflow-hide" style="background-image:url(images/background/bg-5.png);">
 				<div class="container">
                     <!-- TITLE START -->
 					<div class="section-head text-center">
 						<div class="sx-separator-outer separator-center">
 							<div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-								<h3 class="sep-line-one">Our Core Specializations</h3>
+								<h3 class="sep-line-one">Our Product Capabilities</h3>
 							</div>
 						</div>
-                        <p class="text-center" style="max-width: 650px; margin: 10px auto 30px auto; color: #666;">We provide full-scope design, fabrication, and installation services across retail, warehouse, and industrial sectors.</p>
+                        <p class="text-center" style="max-width: 650px; margin: 10px auto 30px auto; color: #666;">We engineer and manufacture high-performance storage solutions tailored to diverse commercial and industrial operations.</p>
 					</div>                   
                     <!-- TITLE END -->                 
                     <div class="section-content">
                         <div class="row number-block-one-outer justify-content-center">
+
                         	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
                                     <img src="images/services/super-market-racking-solution.png" alt="Supermarket Display Racking" style="height: 250px; width: 100%; object-fit: cover;" />
                                     <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="supermarket-racking-solutions.php">Supermarket & Retail Display Racking</a></h4>
+                                        <h4 class="m-a0"><a href="supermarket-racking-solutions.php">Supermarket Display Gondolas</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>01</span>
@@ -182,84 +183,121 @@
                                 <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
                                     <img src="images/services/warehouse-storage-solution.jpg" alt="Warehouse Storage Racks" style="height: 250px; width: 100%; object-fit: cover;" />
                                     <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="warehouse-storage-solutions.php">Warehouse & Heavy Industrial Storage</a></h4>
+                                        <h4 class="m-a0"><a href="warehouse-storage-solutions.php">Warehouse Pallet Racking</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>02</span>
                                     </div>                                    
                                 </div>
                             </div>
-                            
+
                         	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
                                 <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
-                                    <img src="images/services/custom-racking-systems.jpg" alt="Custom Racking Systems" style="height: 250px; width: 100%; object-fit: cover;" />
+                                    <img src="images/services/industrial-racking-solutions.jpg" alt="Industrial Storage Racks" style="height: 250px; width: 100%; object-fit: cover;" />
                                     <div class="figcaption bg-white text-center p-a20">
-                                        <h4 class="m-a0"><a href="custom-racking-systems.php">Custom Racking & Mezzanine Platforms</a></h4>
+                                        <h4 class="m-a0"><a href="industrial-racking-solutions.php">Industrial Tool & Die Shelving</a></h4>
                                     </div>
                                     <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
                                         <span>03</span>
                                     </div>                                    
                                 </div>
                             </div>
+
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
+                                    <img src="images/services/retail-display-racking-solutions.jpg" alt="Retail Store Shelving" style="height: 250px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a20">
+                                        <h4 class="m-a0"><a href="retail-display-racking-solutions.php">Retail Store Display Shelves</a></h4>
+                                    </div>
+                                    <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
+                                        <span>04</span>
+                                    </div>                                    
+                                </div>
+                            </div>
+
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
+                                    <img src="images/services/custom-racking-systems.jpg" alt="Custom Racking Systems" style="height: 250px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a20">
+                                        <h4 class="m-a0"><a href="custom-racking-systems.php">Custom Racks & Mezzanines</a></h4>
+                                    </div>
+                                    <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
+                                        <span>05</span>
+                                    </div>                                    
+                                </div>
+                            </div>
+
+                        	<div class="col-lg-4 col-md-6 col-sm-12 m-b30">
+                                <div class="number-block-one animate-in-to-top" style="border-radius: 6px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.08);">
+                                    <img src="images/services/shopping-trolleys-baskets.jpg" alt="Shopping Trolleys and Baskets" style="height: 250px; width: 100%; object-fit: cover;" />
+                                    <div class="figcaption bg-white text-center p-a20">
+                                        <h4 class="m-a0"><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></h4>
+                                    </div>
+                                    <div class="figcaption-number text-center sx-text-primary animate-in-to-top-content">
+                                        <span>06</span>
+                                    </div>                                    
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
             </div>   
-            <!-- WHAT WE DO END -->          
+            <!-- 6-CARD PRODUCT SHOWCASE END -->          
 
-            <!-- OUR CORE STRENGTHS START -->
+            <!-- TECHNICAL & ENGINEERING STANDARDS START -->
             <div class="section-full p-t80 p-b50 bg-gray mobile-page-padding">
                 <div class="container">
                     <div class="section-head text-center">
                         <div class="sx-separator-outer separator-center">
                             <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
-                                <h3 class="sep-line-one">Why Partner With Spazio?</h3>
+                                <h3 class="sep-line-one">Engineering & Quality Standards</h3>
                             </div>
                         </div>
                     </div>
                     <div class="section-content">
                         <div class="row">
                             <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
                                     <div class="icon-lg m-b15" style="color: #d7b39a;">
                                         <i class="fa fa-cogs"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">Precision Steel Engineering</h4>
-                                    <p class="font-14">Manufactured from prime cold-rolled steel channels supporting high load capacities with zero structural sag.</p>
+                                    <h4 class="sx-tilte m-b10">Cold-Rolled Steel</h4>
+                                    <p class="font-14">Fabricated exclusively from prime IS 2062 cold-rolled structural steel coils for maximum yield strength.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
                                     <div class="icon-lg m-b15" style="color: #d7b39a;">
-                                        <i class="fa fa-paint-brush"></i>
+                                        <i class="fa fa-flask"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">Anti-Rust Coating</h4>
-                                    <p class="font-14">Multi-stage chemical rust pre-treatment and baked electrostatic powder coat for 10+ year corrosion defense.</p>
+                                    <h4 class="sx-tilte m-b10">7-Tank Anti-Rust Process</h4>
+                                    <p class="font-14">Multi-stage chemical degreasing, phosphating, and passivation process ensuring 10+ year corrosion resistance.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
                                     <div class="icon-lg m-b15" style="color: #d7b39a;">
                                         <i class="fa fa-drafting-compass"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">Free CAD Consultation</h4>
-                                    <p class="font-14">Complimentary on-site measurements, floor load audits, and 2D/3D layout drawings for new projects.</p>
+                                    <h4 class="sx-tilte m-b10">SEMA Structural Compliance</h4>
+                                    <p class="font-14">Engineered to comply with SEMA and IS structural safety guidelines with safety beam locking pins.</p>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-12 m-b30">
-                                <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+                                <div class="sx-icon-box-wraper bg-white p-a25 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
                                     <div class="icon-lg m-b15" style="color: #d7b39a;">
                                         <i class="fa fa-truck"></i>
                                     </div>
-                                    <h4 class="sx-tilte m-b10">Pan-India Delivery</h4>
-                                    <p class="font-14">Dedicated project managers and installation crews delivering turnkey projects on schedule across India.</p>
+                                    <h4 class="sx-tilte m-b10">Pan-India Installation</h4>
+                                    <p class="font-14">Dedicated project engineers delivering turnkey measurements, layout design, and fast installation.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- OUR CORE STRENGTHS END -->
+            <!-- TECHNICAL & ENGINEERING STANDARDS END -->
 
             <!-- OUR JOURNEY SECTION START -->
             <div class="section-full p-t80 p-b50 sx-bg-secondry bg-no-repeat bg-bottom-center mobile-page-padding" style="background-image:url(images/background/bg-map.png)">
@@ -284,7 +322,7 @@
                                       </div>
                                       <div class="our-story-detail">
                                           <h4>Company Established</h4>
-                                          <p>Spazio Racking System was founded with a vision to deliver innovative and durable Racking Solution in India for retail, warehouse, and industrial businesses.</p>
+                                          <p>Spazio Racking System was founded with a vision to deliver innovative and durable Racking Solutions in India for retail, warehouse, and industrial businesses.</p>
                                       </div>
                                   </div>
                                   <div class="sx-box our-story text-white">
@@ -337,7 +375,7 @@
                                       </div>
                                       <div class="our-story-detail">
                                           <h4>Building the Future</h4>
-                                          <p>Continuing to develop smart, space-efficient Racking Solution in India that help businesses maximize storage, improve workflow, and support long-term growth.</p>
+                                          <p>Continuing to develop smart, space-efficient Racking Solutions in India that help businesses maximize storage, improve workflow, and support long-term growth.</p>
                                       </div>
                                   </div>
                                </div>
@@ -348,7 +386,7 @@
               <!-- OUR JOURNEY SECTION END -->  
 
              <!-- TESTIMONIAL START -->
-            <div class="section-full mobile-page-padding bg-gray p-t80 p-b80">
+            <div class="section-full mobile-page-padding bg-gray p-t80 p-b50">
                 <div class="section-content">
                     <div class="container">
                         <!-- TITLE START -->
@@ -404,7 +442,72 @@
                </div>
             </div>   
             <!-- TESTIMONIAL END -->                          
-            
+
+            <!-- ABOUT US FAQ START -->
+            <div class="section-full p-t80 p-b80 bg-white mobile-page-padding">
+                <div class="container">
+                    <div class="section-head text-center">
+                        <div class="sx-separator-outer separator-center">
+                            <div class="sx-separator bg-white bg-moving bg-repeat-x" style="background-image:url(images/background/cross-line2.png)">
+                                <h3 class="sep-line-one">Frequently Asked Questions</h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section-content" style="max-width: 900px; margin: 0 auto;">
+                        <div class="sx-accordion acc-bg-gray m-b30" id="aboutFaqAccordion">
+                            <div class="panel sx-panel">
+                                <div class="acod-head acc-actives">
+                                     <h6 class="acod-title">
+                                        <a data-toggle="collapse" href="#abFaq1" data-parent="#aboutFaqAccordion">
+                                            Where is Spazio's manufacturing plant located?
+                                            <span class="indicator"><i class="fa"></i></span>
+                                        </a>
+                                     </h6>
+                                </div>
+                                <div id="abFaq1" class="acod-body collapse show">
+                                    <div class="acod-content p-tb15">
+                                        <p>Our main manufacturing facility is located in Phase 1, Mayapuri Industrial Area, Delhi, India. We operate modern CNC laser cutting, automated bending, and electrostatic powder coating lines.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="panel sx-panel">
+                                <div class="acod-head">
+                                     <h6 class="acod-title">
+                                        <a data-toggle="collapse" href="#abFaq2" class="collapsed" data-parent="#aboutFaqAccordion">
+                                            Do you provide on-site measurement and CAD layout planning?
+                                            <span class="indicator"><i class="fa"></i></span>
+                                        </a>
+                                     </h6>
+                                </div>
+                                <div id="abFaq2" class="acod-body collapse">
+                                    <div class="acod-content p-tb15">
+                                        <p>Yes! We provide free on-site spatial measurements, weight load capacity audits, and 2D/3D CAD layout planning for all new retail, supermarket, and warehouse inquiries.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="panel sx-panel">
+                                <div class="acod-head">
+                                     <h6 class="acod-title">
+                                        <a data-toggle="collapse" href="#abFaq3" class="collapsed" data-parent="#aboutFaqAccordion">
+                                            What quality standards do your racking systems comply with?
+                                            <span class="indicator"><i class="fa"></i></span>
+                                        </a>
+                                     </h6>
+                                </div>
+                                <div id="abFaq3" class="acod-body collapse">
+                                    <div class="acod-content p-tb15">
+                                        <p>All Spazio racking systems are fabricated from prime IS 2062 cold-rolled steel and designed in compliance with international SEMA and Indian IS structural loading guidelines.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ABOUT US FAQ END -->
+
         </div>
         <!-- CONTENT END -->
         
@@ -421,8 +524,14 @@
 <div class="loading-area">
     <div class="loading-box"></div>
     <div class="loading-pic">
-        <div class="custom-spinner"></div>
-        <div class="custom-loading-text">Spazio</div>
+        <div class="spazio-loader-wrapper">
+            <div class="spazio-loader-ring outer-ring"></div>
+            <div class="spazio-loader-ring inner-ring"></div>
+            <div class="spazio-loader-logo">
+                <img src="images/logo-1.png" alt="Spazio Loading" style="max-height: 45px; width: auto;" />
+            </div>
+        </div>
+        <div class="custom-loading-text">SPAZIO RACKING</div>
     </div>
 </div>
 <!-- LOADING AREA END ====== -->
