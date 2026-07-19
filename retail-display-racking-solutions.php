@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/2.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_retail.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li style="background-color: #d7b39a;"><a href="retail-display-racking-solutions.php" style="color: #fff; font-weight: 500;">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="retail-display-racking-solutions.php" style="color: #fff; font-weight: 500;">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -128,12 +128,12 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Slatwall and metal pegboard panel integrations for hanging merchandise</a></li>                                                    <li><a href="javascript:;">Slim-profile structural uprights maximizing visual product exposure</a></li>                                                    <li><a href="javascript:;">Modularity allowing tool-free height and accessories repositioning</a></li>                                                    <li><a href="javascript:;">High-finish powder coat available in matte, gloss, and RAL colors</a></li>
+                                                    <li><a href="javascript:;">Slatwall and metal pegboard panel integrations for hanging merchandise</a></li>\n                                                    <li><a href="javascript:;">Slim-profile structural uprights maximizing visual product exposure</a></li>\n                                                    <li><a href="javascript:;">Modularity allowing tool-free height and accessories repositioning</a></li>\n                                                    <li><a href="javascript:;">High-finish powder coat available in matte, gloss, and RAL colors</a></li>\n
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Integrated LED header lighting tracks and acrylic display shelves</a></li>                                                    <li><a href="javascript:;">Concealed structural fasteners for a clean, premium showroom aesthetic</a></li>                                                    <li><a href="javascript:;">Mobile display towers equipped with heavy-duty locking caster wheels</a></li>                                                    <li><a href="javascript:;">Wood, glass, and metal composite shelving for luxury retail displays</a></li>
+                                                    <li><a href="javascript:;">Integrated LED header lighting tracks and acrylic display shelves</a></li>\n                                                    <li><a href="javascript:;">Concealed structural fasteners for a clean, premium showroom aesthetic</a></li>\n                                                    <li><a href="javascript:;">Mobile display towers equipped with heavy-duty locking caster wheels</a></li>\n                                                    <li><a href="javascript:;">Wood, glass, and metal composite shelving for luxury retail displays</a></li>\n
                                                 </ul>
                                             </div>                                        
                                         </div>
@@ -156,7 +156,7 @@
                                                 <p>Our retail display systems are ideal for apparel boutiques, consumer electronics stores, pharmacies, footwear shops, cosmetics counters, and hardware retailers.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
@@ -170,7 +170,7 @@
                                                 <p>Yes. We manufacture hybrid retail display racks that combine powder-coated steel frames with tempered glass or wood laminate shelves for luxury visual merchandising.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
@@ -184,7 +184,7 @@
                                                 <p>We manufacture universal slotting patterns that accommodate standard pegboard single/double hooks, slatwall brackets, shelf arms, and garment display waterfall bars.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
@@ -198,7 +198,7 @@
                                                 <p>Yes. We supply mobile retail display stands fitted with polyurethane locking casters for flexible promotional positioning.</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>\n
                                 </div>                                        
                             </div>
                         </div>

@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/7.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_fixtures.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li style="background-color: #d7b39a;"><a href="retail-fixtures-accessories.php" style="color: #fff; font-weight: 500;">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="retail-fixtures-accessories.php" style="color: #fff; font-weight: 500;">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -128,12 +128,12 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">High-tensile steel single and double-prong pegboard/slatwall hooks</a></li>                                                    <li><a href="javascript:;">UV-stabilized translucent PVC price label channels with snap-on clips</a></li>                                                    <li><a href="javascript:;">Heavy-duty wire promotional dump bins and mobile display baskets</a></li>                                                    <li><a href="javascript:;">Chrome-plated and powder-coated garment waterfall hanging bars</a></li>
+                                                    <li><a href="javascript:;">High-tensile steel single and double-prong pegboard/slatwall hooks</a></li>\n                                                    <li><a href="javascript:;">UV-stabilized translucent PVC price label channels with snap-on clips</a></li>\n                                                    <li><a href="javascript:;">Heavy-duty wire promotional dump bins and mobile display baskets</a></li>\n                                                    <li><a href="javascript:;">Chrome-plated and powder-coated garment waterfall hanging bars</a></li>\n
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Acrylic and wire mesh shelf dividers for neat product separation</a></li>                                                    <li><a href="javascript:;">Front wire stoppers preventing product sliding on tilted shelves</a></li>                                                    <li><a href="javascript:;">Checkout lane queue barriers, turnstiles, and impulse purchase bays</a></li>                                                    <li><a href="javascript:;">Heavy-duty zinc and powder-coat finishes for long-lasting anti-rust protection</a></li>
+                                                    <li><a href="javascript:;">Acrylic and wire mesh shelf dividers for neat product separation</a></li>\n                                                    <li><a href="javascript:;">Front wire stoppers preventing product sliding on tilted shelves</a></li>\n                                                    <li><a href="javascript:;">Checkout lane queue barriers, turnstiles, and impulse purchase bays</a></li>\n                                                    <li><a href="javascript:;">Heavy-duty zinc and powder-coat finishes for long-lasting anti-rust protection</a></li>\n
                                                 </ul>
                                             </div>                                        
                                         </div>
@@ -156,7 +156,7 @@
                                                 <p>Yes. Our standard pegboard hooks feature universal 1-inch and 2-inch hole spacing compatible with standard retail back panels across India.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
@@ -170,7 +170,7 @@
                                                 <p>We use high-clarity, UV-stabilized PVC plastic that resists yellowing, clouding, and cracking under intense retail lighting.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
@@ -184,7 +184,7 @@
                                                 <p>Yes. We manufacture collapsible and height-adjustable wire dump bins fitted with casters for high-visibility promotional displays.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
@@ -198,7 +198,7 @@
                                                 <p>Yes. We offer chrome plating, zinc galvanized plating, and custom powder coat colors on all wire baskets, hooks, and fixtures.</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>\n
                                 </div>                                        
                             </div>
                         </div>

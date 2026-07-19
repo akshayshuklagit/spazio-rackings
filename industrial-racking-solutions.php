@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/4.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_industrial.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li style="background-color: #d7b39a;"><a href="industrial-racking-solutions.php" style="color: #fff; font-weight: 500;">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="industrial-racking-solutions.php" style="color: #fff; font-weight: 500;">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -128,12 +128,12 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Extreme load capabilities up to 1000 kg to 2500 kg per shelf tier</a></li>                                                    <li><a href="javascript:;">Heavy-gauge steel shelf plates with welded underside rib stiffeners</a></li>                                                    <li><a href="javascript:;">Baseplate anchoring with heavy-duty mechanical expansion studs</a></li>                                                    <li><a href="javascript:;">Mold, die, and heavy machinery component storage configurations</a></li>
+                                                    <li><a href="javascript:;">Extreme load capabilities up to 1000 kg to 2500 kg per shelf tier</a></li>\n                                                    <li><a href="javascript:;">Heavy-gauge steel shelf plates with welded underside rib stiffeners</a></li>\n                                                    <li><a href="javascript:;">Baseplate anchoring with heavy-duty mechanical expansion studs</a></li>\n                                                    <li><a href="javascript:;">Mold, die, and heavy machinery component storage configurations</a></li>\n
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Chemical anti-rust pre-treatment and baked epoxy-polyester finish</a></li>                                                    <li><a href="javascript:;">Sliding drawer mold racks with safety interlocking shelf locks</a></li>                                                    <li><a href="javascript:;">Custom material loading bays compatible with overhead crane hoists</a></li>                                                    <li><a href="javascript:;">Impact-resistant column guards and heavy-duty corner protectors</a></li>
+                                                    <li><a href="javascript:;">Chemical anti-rust pre-treatment and baked epoxy-polyester finish</a></li>\n                                                    <li><a href="javascript:;">Sliding drawer mold racks with safety interlocking shelf locks</a></li>\n                                                    <li><a href="javascript:;">Custom material loading bays compatible with overhead crane hoists</a></li>\n                                                    <li><a href="javascript:;">Impact-resistant column guards and heavy-duty corner protectors</a></li>\n
                                                 </ul>
                                             </div>                                        
                                         </div>
@@ -156,7 +156,7 @@
                                                 <p>Yes. We manufacture specialized heavy-duty industrial racks, including sliding die storage racks with safety lock mechanisms, capable of carrying over 2,000 kg per drawer.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
@@ -170,7 +170,7 @@
                                                 <p>Upright frames are anchored into reinforced concrete floors using heavy-duty mechanical expansion anchor bolts and floor leveling shims.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
@@ -184,7 +184,7 @@
                                                 <p>Yes. We offer specialized epoxy-polyester powder coating and hot-dip galvanized finishes designed for high-humidity, chemical, or outdoor industrial settings.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
@@ -198,7 +198,7 @@
                                                 <p>Yes. We supply heavy-duty mobile industrial tool carts and workbench shelving equipped with industrial-grade steel casters.</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>\n
                                 </div>                                        
                             </div>
                         </div>

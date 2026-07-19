@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/1.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_supermarket.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li style="background-color: #d7b39a;"><a href="supermarket-racking-solutions.php" style="color: #fff; font-weight: 500;">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
+                                        <li style="background-color: #d7b39a;"><a href="supermarket-racking-solutions.php" style="color: #fff; font-weight: 500;">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -128,12 +128,12 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">High-tensile cold-rolled steel columns with 50mm slot pitch adjustment</a></li>                                                    <li><a href="javascript:;">Double-sided island gondolas with integrated promotional end-caps</a></li>                                                    <li><a href="javascript:;">Multi-stage anti-rust chemical treatment with durable powder coating</a></li>                                                    <li><a href="javascript:;">Heavy-duty shelf tiers supporting 100 kg to 180 kg per shelf level</a></li>
+                                                    <li><a href="javascript:;">High-tensile cold-rolled steel columns with 50mm slot pitch adjustment</a></li>\n                                                    <li><a href="javascript:;">Double-sided island gondolas with integrated promotional end-caps</a></li>\n                                                    <li><a href="javascript:;">Multi-stage anti-rust chemical treatment with durable powder coating</a></li>\n                                                    <li><a href="javascript:;">Heavy-duty shelf tiers supporting 100 kg to 180 kg per shelf level</a></li>\n
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">UV-stabilized translucent price label channels and wire mesh stoppers</a></li>                                                    <li><a href="javascript:;">Tool-free bracket adjustment with double-locking safety retention pins</a></li>                                                    <li><a href="javascript:;">Modular extensions for effortless expansion as store inventory grows</a></li>                                                    <li><a href="javascript:;">Customizable color accent strips matching store interior branding</a></li>
+                                                    <li><a href="javascript:;">UV-stabilized translucent price label channels and wire mesh stoppers</a></li>\n                                                    <li><a href="javascript:;">Tool-free bracket adjustment with double-locking safety retention pins</a></li>\n                                                    <li><a href="javascript:;">Modular extensions for effortless expansion as store inventory grows</a></li>\n                                                    <li><a href="javascript:;">Customizable color accent strips matching store interior branding</a></li>\n
                                                 </ul>
                                             </div>                                        
                                         </div>
@@ -156,7 +156,7 @@
                                                 <p>Our standard supermarket wall and island gondola shelves support between 100 kg and 180 kg per tier, depending on the reinforcing channel under-weld configuration.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
@@ -170,7 +170,7 @@
                                                 <p>Yes! All our supermarket racking brackets feature tool-free hook-in connectors with 50mm slot increments, allowing store staff to easily adjust shelf spacing without specialized tools.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
@@ -184,7 +184,7 @@
                                                 <p>Absolutely. Our engineering team offers free 2D/3D CAD layout planning to optimize aisle width, customer traffic flow, checkout line efficiency, and floor storage density.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
@@ -198,7 +198,7 @@
                                                 <p>We supply price label channels, acrylic dividers, wire front stoppers, bottom kickplates, pegboards, hanging hooks, and side mesh panels.</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>\n
                                 </div>                                        
                             </div>
                         </div>

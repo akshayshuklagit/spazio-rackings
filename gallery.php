@@ -34,7 +34,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.2">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.2">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/3.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_gallery.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">

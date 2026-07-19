@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/5.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_departmental.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li style="background-color: #d7b39a;"><a href="departmental-store-racking.php" style="color: #fff; font-weight: 500;">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="departmental-store-racking.php" style="color: #fff; font-weight: 500;">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -128,12 +128,12 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Versatile load capacity supporting diverse merchandise categories</a></li>                                                    <li><a href="javascript:;">High-wall perimeter shelving with integrated overhead stock bays</a></li>                                                    <li><a href="javascript:;">Double-sided center island gondolas with promotional end-caps</a></li>                                                    <li><a href="javascript:;">Garment hanging rods, slatted back panels, and wire dump bins</a></li>
+                                                    <li><a href="javascript:;">Versatile load capacity supporting diverse merchandise categories</a></li>\n                                                    <li><a href="javascript:;">High-wall perimeter shelving with integrated overhead stock bays</a></li>\n                                                    <li><a href="javascript:;">Double-sided center island gondolas with promotional end-caps</a></li>\n                                                    <li><a href="javascript:;">Garment hanging rods, slatted back panels, and wire dump bins</a></li>\n
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Wood laminate trim and tempered glass shelf integration options</a></li>                                                    <li><a href="javascript:;">Concealed LED strip lighting tracks for premium product illumination</a></li>                                                    <li><a href="javascript:;">Heavy-duty bottom base bays for high-density inventory placement</a></li>                                                    <li><a href="javascript:;">Scratch-resistant baked powder-coated finish in customized colors</a></li>
+                                                    <li><a href="javascript:;">Wood laminate trim and tempered glass shelf integration options</a></li>\n                                                    <li><a href="javascript:;">Concealed LED strip lighting tracks for premium product illumination</a></li>\n                                                    <li><a href="javascript:;">Heavy-duty bottom base bays for high-density inventory placement</a></li>\n                                                    <li><a href="javascript:;">Scratch-resistant baked powder-coated finish in customized colors</a></li>\n
                                                 </ul>
                                             </div>                                        
                                         </div>
@@ -156,7 +156,7 @@
                                                 <p>Departmental store racking offers higher vertical clearance, versatile accessories for non-food categories (garment bars, glass shelves), and premium wood/acrylic aesthetic trims.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
@@ -170,7 +170,7 @@
                                                 <p>Yes! Our heavy-duty departmental shelving tiers support up to 180 kg per shelf, making them suitable for electronics, kitchenware, and heavy home goods.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
@@ -184,7 +184,7 @@
                                                 <p>Yes. We powder-coat all components in custom RAL color codes to match your departmental store's brand interior guidelines.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
@@ -198,7 +198,7 @@
                                                 <p>Yes. Our modular system allows tool-free swapping between flat steel shelves, wire baskets, garment hanging bars, and pegboard hooks.</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>\n
                                 </div>                                        
                             </div>
                         </div>

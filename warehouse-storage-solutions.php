@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/3.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_warehouse.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li style="background-color: #d7b39a;"><a href="warehouse-storage-solutions.php" style="color: #fff; font-weight: 500;">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="warehouse-storage-solutions.php" style="color: #fff; font-weight: 500;">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li><a href="shopping-trolleys-baskets.php">Shopping Trolleys & Baskets</a></li>\n
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -128,12 +128,12 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Heavy-duty beam capacities ranging from 1000 kg to 4000 kg per level</a></li>                                                    <li><a href="javascript:;">Cold-rolled structural steel upright frames with seismic sway bracing</a></li>                                                    <li><a href="javascript:;">100% selective pallet accessibility for fast forklift maneuvering</a></li>                                                    <li><a href="javascript:;">Column guard protectors and heavy-duty floor anchoring expansion bolts</a></li>
+                                                    <li><a href="javascript:;">Heavy-duty beam capacities ranging from 1000 kg to 4000 kg per level</a></li>\n                                                    <li><a href="javascript:;">Cold-rolled structural steel upright frames with seismic sway bracing</a></li>\n                                                    <li><a href="javascript:;">100% selective pallet accessibility for fast forklift maneuvering</a></li>\n                                                    <li><a href="javascript:;">Column guard protectors and heavy-duty floor anchoring expansion bolts</a></li>\n
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Multi-tier structural steel mezzanine platforms to double usable floor space</a></li>                                                    <li><a href="javascript:;">Drive-in and Drive-through high-density pallet storage configurations</a></li>                                                    <li><a href="javascript:;">Cantilever racking for timber, steel pipes, and long material storage</a></li>                                                    <li><a href="javascript:;">Safety locking pins on all beam-to-column connector brackets</a></li>
+                                                    <li><a href="javascript:;">Multi-tier structural steel mezzanine platforms to double usable floor space</a></li>\n                                                    <li><a href="javascript:;">Drive-in and Drive-through high-density pallet storage configurations</a></li>\n                                                    <li><a href="javascript:;">Cantilever racking for timber, steel pipes, and long material storage</a></li>\n                                                    <li><a href="javascript:;">Safety locking pins on all beam-to-column connector brackets</a></li>\n
                                                 </ul>
                                             </div>                                        
                                         </div>
@@ -156,7 +156,7 @@
                                                 <p>Our selective pallet racks can reach upright heights up to 12 meters with individual beam load capacities ranging up to 4,000 kg per tier.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
@@ -170,7 +170,7 @@
                                                 <p>We utilize cold-rolled high-tensile steel, diagonal sway bracing, baseplate floor anchoring, spring-loaded safety beam pins, and heavy-duty column impact guards.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
@@ -184,7 +184,7 @@
                                                 <p>Yes. Aisle widths and beam elevations are custom-engineered based on your specific forklift turning radius (Reach trucks, VNA, or standard Counterbalance trucks).</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
@@ -198,7 +198,7 @@
                                                 <p>Yes. Every warehouse system installation includes official load rating plaques clearly stating maximum load capacities per bay and beam.</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>\n
                                 </div>                                        
                             </div>
                         </div>

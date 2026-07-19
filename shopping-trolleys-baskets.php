@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/8.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/hero_trolleys.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -96,7 +96,7 @@
                                 <div class="widget widget_services">
                                     <h4 class="widget-title">More Services</h4>
                                     <ul class="bg-white">
-                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>                                        <li style="background-color: #d7b39a;"><a href="shopping-trolleys-baskets.php" style="color: #fff; font-weight: 500;">Shopping Trolleys & Baskets</a></li>
+                                        <li><a href="supermarket-racking-solutions.php">Supermarket Racking Solutions</a></li>\n                                        <li><a href="retail-display-racking-solutions.php">Retail Display Racking Solutions</a></li>\n                                        <li><a href="warehouse-storage-solutions.php">Warehouse Storage Solutions</a></li>\n                                        <li><a href="industrial-racking-solutions.php">Industrial Racking Solutions</a></li>\n                                        <li><a href="departmental-store-racking.php">Departmental Store Racking</a></li>\n                                        <li><a href="custom-racking-systems.php">Custom Racking Systems</a></li>\n                                        <li><a href="retail-fixtures-accessories.php">Retail Fixtures & Accessories</a></li>\n                                        <li style="background-color: #d7b39a;"><a href="shopping-trolleys-baskets.php" style="color: #fff; font-weight: 500;">Shopping Trolleys & Baskets</a></li>\n
                                     </ul>
                                 </div>                        
                                 <div class="wt-icon-box-wraper left bg-white p-a15 m-b10">
@@ -128,12 +128,12 @@
                                         <div class="row">
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">Multi-stage anti-rust zinc plating with clear lacquer protective coating</a></li>                                                    <li><a href="javascript:;">Industrial polyurethane (PU) non-marking 360-degree swivel casters</a></li>                                                    <li><a href="javascript:;">Nested compact stacking design saving valuable store entry space</a></li>                                                    <li><a href="javascript:;">Ergonomic handles with custom brand logo wrap print options</a></li>
+                                                    <li><a href="javascript:;">Multi-stage anti-rust zinc plating with clear lacquer protective coating</a></li>\n                                                    <li><a href="javascript:;">Industrial polyurethane (PU) non-marking 360-degree swivel casters</a></li>\n                                                    <li><a href="javascript:;">Nested compact stacking design saving valuable store entry space</a></li>\n                                                    <li><a href="javascript:;">Ergonomic handles with custom brand logo wrap print options</a></li>\n
                                                 </ul>
                                             </div>
                                             <div class="col-lg-6 col-md-12">
                                                 <ul class="list-angle-right anchor-line">
-                                                    <li><a href="javascript:;">High-impact virgin polypropylene plastic hand shopping baskets</a></li>                                                    <li><a href="javascript:;">Double-tier basket rolling carts for quick convenience shopping</a></li>                                                    <li><a href="javascript:;">Protective corner plastic bumpers preventing fixture scratching</a></li>                                                    <li><a href="javascript:;">Safety child seats with safety lap straps on all larger trolleys</a></li>
+                                                    <li><a href="javascript:;">High-impact virgin polypropylene plastic hand shopping baskets</a></li>\n                                                    <li><a href="javascript:;">Double-tier basket rolling carts for quick convenience shopping</a></li>\n                                                    <li><a href="javascript:;">Protective corner plastic bumpers preventing fixture scratching</a></li>\n                                                    <li><a href="javascript:;">Safety child seats with safety lap straps on all larger trolleys</a></li>\n
                                                 </ul>
                                             </div>                                        
                                         </div>
@@ -156,7 +156,7 @@
                                                 <p>We manufacture shopping trolleys in 60L, 80L, 100L, 125L, 150L, 180L, and 210L volume capacities to suit express marts through hypermarkets.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse1Svc" class="collapsed" data-parent="#accordion5">
@@ -170,7 +170,7 @@
                                                 <p>Our metal trolleys undergo multi-stage electro-zinc plating followed by a high-temperature baked polyurethane clear coat for 7+ years of rust protection.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse2Svc" class="collapsed" data-parent="#accordion5">
@@ -184,7 +184,7 @@
                                                 <p>Yes! We provide custom screen-printed logo wraps on all trolley handles in your store's brand colors.</p>
                                             </div>
                                         </div>
-                                    </div>                                    <div class="panel sx-panel">
+                                    </div>\n                                    <div class="panel sx-panel">
                                         <div class="acod-head ">
                                              <h6 class="acod-title">
                                                 <a data-toggle="collapse" href="#collapse3Svc" class="collapsed" data-parent="#accordion5">
@@ -198,7 +198,7 @@
                                                 <p>Yes. We supply full replacement caster wheels, bumper guards, and handles for long-term fleet maintenance.</p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>\n
                                 </div>                                        
                             </div>
                         </div>
