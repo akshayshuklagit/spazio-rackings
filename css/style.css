@@ -15993,3 +15993,44 @@ form.woocommerce-ordering:after {
 	color: #d7b39a !important;
 	padding-left: 22px !important;
 }
+
+/* Mobile Responsive Overlap Fixes */
+@media only screen and (max-width: 767px) {
+	#rev_slider_three .tp-caption {
+		letter-spacing: 2px !important;
+	}
+	#rev_slider_three .slider-tag-line {
+		letter-spacing: 3px !important;
+	}
+	.about-home-2 {
+		padding-left: 0 !important;
+		margin-top: 20px;
+	}
+	.home-2-about {
+		height: 280px !important;
+	}
+}
+
+/* Compact Services Header Dropdown Menu */
+.header-nav .nav > li .sub-menu {
+	width: 270px !important;
+	padding: 6px 0 !important;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12) !important;
+	border-radius: 6px !important;
+	border: 1px solid rgba(0,0,0,0.08) !important;
+}
+
+.header-nav .nav > li .sub-menu li a {
+	padding: 8px 18px !important;
+	font-size: 13px !important;
+	line-height: 1.3 !important;
+	font-weight: 500 !important;
+	color: #333333 !important;
+	white-space: nowrap !important;
+}
+
+.header-nav .nav > li .sub-menu li a:hover {
+	background-color: #f8f9fa !important;
+	color: #d7b39a !important;
+	padding-left: 22px !important;
+}
