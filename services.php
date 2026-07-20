@@ -38,7 +38,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5?v=1.5?v=1.6?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.7?v=1.5?v=1.5?v=1.6?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -294,7 +294,7 @@
                                 
                                 <div class="col-xl-6 col-lg-6 col-md-12">
                                     <div class="video-section-full-v2">
-                                        <div class="video-section-full bg-no-repeat bg-cover bg-center overlay-wraper m-b30" style="background-image:url(images/video-bg.jpg)">
+                                        <div class="video-section-full bg-no-repeat bg-cover bg-center overlay-wraper m-b30" style="background-image:url(https://images.pexels.com/photos/4170172/pexels-photo-4170172.jpeg)">
                                             <div class="overlay-main bg-black opacity-04"></div>
                                             <div class="video-section-inner">
                                                 <div class="video-section-content">

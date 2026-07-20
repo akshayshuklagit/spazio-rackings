@@ -34,7 +34,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.5?v=1.5?v=1.6">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.7?v=1.5?v=1.5?v=1.6">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -60,7 +60,7 @@
         <div class="page-content">
         
             <!-- INNER PAGE BANNER -->
-            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(images/banner/5.jpg);">
+            <div class="sx-bnr-inr overlay-wraper bg-parallax bg-top-center" data-stellar-background-ratio="0.5" style="background-image:url(https://i.pinimg.com/736x/f4/e0/97/f4e097d3257d18be3a24fe3c9181508e.jpg);">
             	<div class="sx-bnr-inr-overlay"></div>
                 <div class="container">
                     <div class="sx-bnr-inr-entry">
@@ -278,7 +278,7 @@
                             <div class="col-lg-3 col-md-6 col-sm-12 m-b20">
                                 <div class="sx-icon-box-wraper bg-white p-a20 text-center" style="border-radius: 6px; height: 100%; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
                                     <div class="icon-lg m-b10" style="color: #d7b39a;">
-                                        <i class="fa fa-drafting-compass"></i>
+                                        <i class="fa fa-certificate"></i>
                                     </div>
                                     <h4 class="sx-tilte m-b10" style="font-size: 16px;">SEMA Compliance</h4>
                                     <p class="font-13 m-b0">Engineered to comply with SEMA and IS structural safety guidelines with safety beam locking pins.</p>

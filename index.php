@@ -36,7 +36,7 @@
     <!-- FLATICON STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.6?v=1.5?v=1.5?v=1.6?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
+    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.7?v=1.5?v=1.5?v=1.6?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.4?v=1.3">
     <!-- Price Range Slider -->
     <link rel="stylesheet" href="css/bootstrap-slider.min.css" />    
     <!-- Color Theme Change Css -->
@@ -124,7 +124,7 @@
                                 data-paddingbottom="[10,10,10,10]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; font-weight:200; letter-spacing:10px; color: #000;font-family: 'Poppins', sans-serif; text-transform:uppercase">INNOVATIVE</div>
+                                style="z-index: 10; font-weight:200; letter-spacing: normal; color: #000;font-family: 'Poppins', sans-serif; text-transform:uppercase">INNOVATIVE</div>
                                 
                             <!-- LAYER 4  Bold Title-->
                             <div class="tp-caption   tp-resizeme" 
@@ -149,7 +149,7 @@
                                 data-paddingbottom="[30,30,30,30]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; text-transform:uppercase; letter-spacing:10px; white-space: normal;font-weight: 800; color: #000;font-family: 'Poppins', sans-serif;">RACKING SOLUTIONS</div>
+                                style="z-index: 10; text-transform:uppercase; letter-spacing: normal; white-space: normal;font-weight: 800; color: #000;font-family: 'Poppins', sans-serif;">RACKING SOLUTIONS</div>
                                                                 
                             <!-- LAYER 5  Paragraph-->
                             <div class="tp-caption   tp-resizeme" 
@@ -255,7 +255,7 @@
                                 data-paddingbottom="[10,10,10,10]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; font-weight:200; letter-spacing:10px; color: #000;font-family: 'Poppins', sans-serif; text-transform:uppercase">COMPLETE</div>
+                                style="z-index: 10; font-weight:200; letter-spacing: normal; color: #000;font-family: 'Poppins', sans-serif; text-transform:uppercase">COMPLETE</div>
                                 
                             <!-- LAYER 4  Bold Title-->
                             <div class="tp-caption   tp-resizeme" 
@@ -280,7 +280,7 @@
                                 data-paddingbottom="[30,30,30,30]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; text-transform:uppercase; letter-spacing:10px; white-space: normal;font-weight: 800; color: #000;font-family: 'Poppins', sans-serif;">RACKING SYSTEMS</div>
+                                style="z-index: 10; text-transform:uppercase; letter-spacing: normal; white-space: normal;font-weight: 800; color: #000;font-family: 'Poppins', sans-serif;">RACKING SYSTEMS</div>
                                                                 
                             <!-- LAYER 5  Paragraph-->
                             <div class="tp-caption   tp-resizeme" 
@@ -386,7 +386,7 @@
                                 data-paddingbottom="[10,10,10,10]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; font-weight:200; letter-spacing:10px; color:#fff; font-family: 'Poppins', sans-serif; text-transform:uppercase">ENGINEERED</div>
+                                style="z-index: 10; font-weight:200; letter-spacing: normal; color:#fff; font-family: 'Poppins', sans-serif; text-transform:uppercase">ENGINEERED</div>
                                 
                             <!-- LAYER 4  Bold Title-->
                             <div class="tp-caption   tp-resizeme" 
@@ -411,7 +411,7 @@
                                 data-paddingbottom="[30,30,30,30]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; text-transform:uppercase; letter-spacing:10px; white-space: normal;font-weight: 800; color:#fff; font-family: 'Poppins', sans-serif;">RACKING SYSTEMS</div>
+                                style="z-index: 10; text-transform:uppercase; letter-spacing: normal; white-space: normal;font-weight: 800; color:#fff; font-family: 'Poppins', sans-serif;">RACKING SYSTEMS</div>
                                                                 
                             <!-- LAYER 5  Paragraph-->
                             <div class="tp-caption   tp-resizeme" 

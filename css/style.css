@@ -15997,10 +15997,10 @@ form.woocommerce-ordering:after {
 /* Mobile Responsive Overlap Fixes */
 @media only screen and (max-width: 767px) {
 	#rev_slider_three .tp-caption {
-		letter-spacing: 2px !important;
+		letter-spacing: normal !important;
 	}
 	#rev_slider_three .slider-tag-line {
-		letter-spacing: 3px !important;
+		letter-spacing: normal !important;
 	}
 	.about-home-2 {
 		padding-left: 0 !important;
@@ -16033,4 +16033,9 @@ form.woocommerce-ordering:after {
 	background-color: #f8f9fa !important;
 	color: #d7b39a !important;
 	padding-left: 22px !important;
+}
+
+/* Remove Wide Letter Spacing from Slider Headings */
+#rev_slider_three .tp-caption {
+	letter-spacing: normal !important;
 }
